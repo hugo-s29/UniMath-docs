@@ -136,6 +136,7 @@ Every type is equivalent to 1 × 1 matrices on that type.
 </div>
 <div class="code">
 <span class="id" title="keyword">Lemma</span> <a id="weq_matrix_1_1" class="idref" href="#weq_matrix_1_1"><span class="id" title="lemma">weq_matrix_1_1</span></a> {<a id="X:35" class="idref" href="#X:35"><span class="id" title="binder">X</span></a> : <a class="idref" href="UniMath.Foundations.Preamble.html#UU"><span class="id" title="definition">UU</span></a>} : <a class="idref" href="UniMath.Combinatorics.FMatrices.html#X:35"><span class="id" title="variable">X</span></a> <a class="idref" href="UniMath.Foundations.PartA.html#dd7277d0940f85bc9f30edc592228b3b"><span class="id" title="notation">≃</span></a> <a class="idref" href="UniMath.Combinatorics.FMatrices.html#Matrix"><span class="id" title="definition">Matrix</span></a> <a class="idref" href="UniMath.Combinatorics.FMatrices.html#X:35"><span class="id" title="variable">X</span></a> 1 1.<br/>
+<span class="id" title="keyword">Proof</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="var">intermediate_weq</span> (<a class="idref" href="UniMath.Combinatorics.FVectors.html#Vector"><span class="id" title="definition">Vector</span></a> <span class="id" title="var">X</span> 1); <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Combinatorics.FVectors.html#weq_vector_1"><span class="id" title="lemma">weq_vector_1</span></a>.<br/>
 <span class="id" title="keyword">Defined</span>.<br/>
 </div>

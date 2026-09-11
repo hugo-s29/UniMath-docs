@@ -98,6 +98,7 @@
 </div>
 <div class="code">
 <span class="id" title="keyword">Definition</span> <a id="path_pregroupoid" class="idref" href="#path_pregroupoid"><span class="id" title="definition">path_pregroupoid</span></a> (<a id="X:7" class="idref" href="#X:7"><span class="id" title="binder">X</span></a>:<a class="idref" href="UniMath.Foundations.Preamble.html#UU"><span class="id" title="definition">UU</span></a>) (<a id="iobj:8" class="idref" href="#iobj:8"><span class="id" title="binder">iobj</span></a> : <a class="idref" href="UniMath.Foundations.PartB.html#isofhlevel"><span class="id" title="definition">isofhlevel</span></a> 3 <a class="idref" href="UniMath.CategoryTheory.Categories.StandardCategories.html#X:7"><span class="id" title="variable">X</span></a>) : <a class="idref" href="UniMath.CategoryTheory.Groupoids.html#pregroupoid"><span class="id" title="definition">pregroupoid</span></a>.<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.CategoryTheory.Groupoids.html#make_pregroupoid"><span class="id" title="definition">make_pregroupoid</span></a>.<br/>
 &nbsp;&nbsp;- <span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Preamble.html#tpair"><span class="id" title="constructor">tpair</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;{<br/>
@@ -118,7 +119,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="tactic">split</span>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;+ <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartA.html#pathsinv0r"><span class="id" title="definition">pathsinv0r</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;+ <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartA.html#pathsinv0l"><span class="id" title="definition">pathsinv0l</span></a>.<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 </div>
@@ -322,10 +323,11 @@ A natural transformation of functors out of a path groupoid is given by any
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="cat_n" class="idref" href="#cat_n"><span class="id" title="definition">cat_n</span></a> (<a id="n:49" class="idref" href="#n:49"><span class="id" title="binder">n</span></a>:<a class="idref" href="UniMath.Foundations.Preamble.html#nat"><span class="id" title="inductive">nat</span></a>): <a class="idref" href="UniMath.CategoryTheory.Groupoids.html#univalent_groupoid"><span class="id" title="definition">univalent_groupoid</span></a>.<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;<span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.CategoryTheory.Categories.StandardCategories.html#path_groupoid_hset"><span class="id" title="definition">path_groupoid_hset</span></a>; <span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Sets.html#make_hSet"><span class="id" title="definition">make_hSet</span></a>.<br/>
 &nbsp;&nbsp;- <span class="id" title="tactic">exact</span> (<a class="idref" href="UniMath.Combinatorics.StandardFiniteSets.html#stn"><span class="id" title="definition">stn</span></a> <span class="id" title="var">n</span>).<br/>
 &nbsp;&nbsp;- <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Combinatorics.StandardFiniteSets.html#isasetstn"><span class="id" title="lemma">isasetstn</span></a>.<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 <span class="id" title="keyword">Lemma</span> <a id="is_discrete_cat_n" class="idref" href="#is_discrete_cat_n"><span class="id" title="lemma">is_discrete_cat_n</span></a> (<a id="n:50" class="idref" href="#n:50"><span class="id" title="binder">n</span></a> : <a class="idref" href="UniMath.Foundations.Preamble.html#nat"><span class="id" title="inductive">nat</span></a>) : <a class="idref" href="UniMath.CategoryTheory.Groupoids.html#is_discrete"><span class="id" title="definition">is_discrete</span></a> (<a class="idref" href="UniMath.CategoryTheory.Categories.StandardCategories.html#cat_n"><span class="id" title="definition">cat_n</span></a> <a class="idref" href="UniMath.CategoryTheory.Categories.StandardCategories.html#n:50"><span class="id" title="variable">n</span></a>).<br/>

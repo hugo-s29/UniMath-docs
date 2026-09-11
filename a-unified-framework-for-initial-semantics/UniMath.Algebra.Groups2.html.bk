@@ -679,6 +679,7 @@ The property of being in the same coset defines an equivalence relation.
 
 <br/>
 &nbsp;&nbsp;<span class="id" title="keyword">Definition</span> <a id="in_same_left_coset_eqrel" class="idref" href="#in_same_left_coset_eqrel"><span class="id" title="definition">in_same_left_coset_eqrel</span></a> : <a class="idref" href="UniMath.Foundations.Sets.html#eqrel"><span class="id" title="definition">eqrel</span></a> <a class="idref" href="UniMath.Algebra.Groups2.html#GrCosets.X"><span class="id" title="variable">X</span></a>.<br/>
+&nbsp;&nbsp;<span class="id" title="keyword">Proof</span>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Sets.html#make_eqrel"><span class="id" title="definition">make_eqrel</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- <span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.Algebra.Groups2.html#in_same_left_coset_prop"><span class="id" title="definition">in_same_left_coset_prop</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- <span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Sets.html#iseqrelconstr"><span class="id" title="definition">iseqrelconstr</span></a>.<br/>

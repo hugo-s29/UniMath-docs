@@ -879,11 +879,12 @@ the relations on a set form a set
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="isaset_hrel" class="idref" href="#isaset_hrel"><span class="id" title="definition">isaset_hrel</span></a> (<a id="X:248" class="idref" href="#X:248"><span class="id" title="binder">X</span></a> : <a class="idref" href="UniMath.Foundations.Sets.html#hSet"><span class="id" title="definition">hSet</span></a>) : <a class="idref" href="UniMath.Foundations.PartB.html#isaset"><span class="id" title="definition">isaset</span></a> (<a class="idref" href="UniMath.Foundations.Sets.html#hrel"><span class="id" title="definition">hrel</span></a> <a class="idref" href="UniMath.Foundations.Sets.html#X:248"><span class="id" title="variable">X</span></a>).<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;<span class="id" title="tactic">intros</span>. <span class="id" title="tactic">unfold</span> <a class="idref" href="UniMath.Foundations.Sets.html#hrel"><span class="id" title="definition">hrel</span></a>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartD.html#impred_isaset"><span class="id" title="lemma">impred_isaset</span></a>; <span class="id" title="tactic">intro</span> <span class="id" title="var">x</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartD.html#impred_isaset"><span class="id" title="lemma">impred_isaset</span></a>; <span class="id" title="tactic">intro</span> <span class="id" title="var">y</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.Foundations.Propositions.html#isasethProp"><span class="id" title="lemma">isasethProp</span></a>.<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 </div>
@@ -1175,12 +1176,13 @@ the preorders on a set form a set
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="isaset_po" class="idref" href="#isaset_po"><span class="id" title="definition">isaset_po</span></a> (<a id="X:430" class="idref" href="#X:430"><span class="id" title="binder">X</span></a> : <a class="idref" href="UniMath.Foundations.Sets.html#hSet"><span class="id" title="definition">hSet</span></a>) : <a class="idref" href="UniMath.Foundations.PartB.html#isaset"><span class="id" title="definition">isaset</span></a> (<a class="idref" href="UniMath.Foundations.Sets.html#po"><span class="id" title="definition">po</span></a> <a class="idref" href="UniMath.Foundations.Sets.html#X:430"><span class="id" title="variable">X</span></a>).<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;<span class="id" title="tactic">intros</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">unfold</span> <a class="idref" href="UniMath.Foundations.Sets.html#po"><span class="id" title="definition">po</span></a>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">apply</span> (<a class="idref" href="UniMath.Foundations.PartB.html#isofhleveltotal2"><span class="id" title="lemma">isofhleveltotal2</span></a> 2).<br/>
 &nbsp;&nbsp;{ <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.Sets.html#isaset_hrel"><span class="id" title="definition">isaset_hrel</span></a>. }<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">intros</span> <span class="id" title="var">x</span>. <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartB.html#hlevelntosn"><span class="id" title="lemma">hlevelntosn</span></a>. <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.Sets.html#isaprop_ispreorder"><span class="id" title="lemma">isaprop_ispreorder</span></a>.<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 </div>
@@ -1192,12 +1194,13 @@ the partial orders on a set form a set
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="isaset_PartialOrder" class="idref" href="#isaset_PartialOrder"><span class="id" title="definition">isaset_PartialOrder</span></a> <a id="X:431" class="idref" href="#X:431"><span class="id" title="binder">X</span></a> : <a class="idref" href="UniMath.Foundations.PartB.html#isaset"><span class="id" title="definition">isaset</span></a> (<a class="idref" href="UniMath.Foundations.Sets.html#PartialOrder"><span class="id" title="definition">PartialOrder</span></a> <a class="idref" href="UniMath.Foundations.Sets.html#X:431"><span class="id" title="variable">X</span></a>).<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;<span class="id" title="tactic">intros</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">unfold</span> <a class="idref" href="UniMath.Foundations.Sets.html#PartialOrder"><span class="id" title="definition">PartialOrder</span></a>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">apply</span> (<a class="idref" href="UniMath.Foundations.PartB.html#isofhleveltotal2"><span class="id" title="lemma">isofhleveltotal2</span></a> 2).<br/>
 &nbsp;&nbsp;{ <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.Sets.html#isaset_hrel"><span class="id" title="definition">isaset_hrel</span></a>. }<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">intros</span> <span class="id" title="var">x</span>. <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.PartB.html#hlevelntosn"><span class="id" title="lemma">hlevelntosn</span></a>. <span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Foundations.Sets.html#isaprop_isPartialOrder"><span class="id" title="lemma">isaprop_isPartialOrder</span></a>.<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 </div>

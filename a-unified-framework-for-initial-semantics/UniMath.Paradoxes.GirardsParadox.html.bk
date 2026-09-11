@@ -225,9 +225,7 @@ used is (in the most obvious way) inconsistent.
 <span class="id" title="keyword">End</span> <a class="idref" href="UniMath.Paradoxes.GirardsParadox.html#girard"><span class="id" title="section">girard</span></a>.<br/>
 
 <br/>
-<span class="id" title="keyword">Proposition</span> <a id="but_seriously_the_world_explodes" class="idref" href="#but_seriously_the_world_explodes"><span class="id" title="lemma">but_seriously_the_world_explodes</span></a> : <a class="idref" href="UniMath.Foundations.Preamble.html#empty"><span class="id" title="inductive">empty</span></a>.<br/>
-&nbsp;&nbsp;<span class="id" title="tactic">exact</span> (<a class="idref" href="UniMath.Paradoxes.GirardsParadox.html#the_world_explodes"><span class="id" title="lemma">the_world_explodes</span></a> <a class="idref" href="UniMath.Foundations.Preamble.html#empty"><span class="id" title="inductive">empty</span></a>).<br/>
-<span class="id" title="keyword">Defined</span>.<br/>
+<span class="id" title="keyword">Definition</span> <a id="but_seriously_the_world_explodes" class="idref" href="#but_seriously_the_world_explodes"><span class="id" title="definition">but_seriously_the_world_explodes</span></a> : <a class="idref" href="UniMath.Foundations.Preamble.html#empty"><span class="id" title="inductive">empty</span></a> := <a class="idref" href="UniMath.Paradoxes.GirardsParadox.html#the_world_explodes"><span class="id" title="lemma">the_world_explodes</span></a> <a class="idref" href="UniMath.Foundations.Preamble.html#empty"><span class="id" title="inductive">empty</span></a>.<br/>
 </div>
 </div>
 

@@ -820,6 +820,7 @@
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="tensor_associator_ord" class="idref" href="#tensor_associator_ord"><span class="id" title="definition">tensor_associator_ord</span></a> : <a class="idref" href="UniMath.CategoryTheory.Monoidal.AlternativeDefinitions.MonoidalCategoriesTensored.html#associator"><span class="id" title="definition">associator</span></a> <a class="idref" href="UniMath.CategoryTheory.Monoidal.AlternativeDefinitions.AugmentedSimplexCategory.html#tensor_functor_ord"><span class="id" title="definition">tensor_functor_ord</span></a>.<br/>
+<span class="id" title="keyword">Proof</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">unfold</span> <a class="idref" href="UniMath.CategoryTheory.Monoidal.AlternativeDefinitions.MonoidalCategoriesTensored.html#associator"><span class="id" title="definition">associator</span></a>, <a class="idref" href="UniMath.CategoryTheory.Core.NaturalTransformations.html#nat_z_iso"><span class="id" title="definition">nat_z_iso</span></a>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">exists</span> <a class="idref" href="UniMath.CategoryTheory.Monoidal.AlternativeDefinitions.AugmentedSimplexCategory.html#tensor_associator_ord_nat_trans"><span class="id" title="definition">tensor_associator_ord_nat_trans</span></a>.<br/>
 &nbsp;&nbsp;<span class="id" title="tactic">unfold</span> <a class="idref" href="UniMath.CategoryTheory.Core.NaturalTransformations.html#is_nat_z_iso"><span class="id" title="definition">is_nat_z_iso</span></a>.<br/>

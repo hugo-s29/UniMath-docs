@@ -167,6 +167,7 @@ Every monoid is a monoid eqalgebra.
 
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="Eqspec.make_monoid_eqalgebra" class="idref" href="#Eqspec.make_monoid_eqalgebra"><span class="id" title="definition">make_monoid_eqalgebra</span></a> : <a class="idref" href="UniMath.Algebra.Universal.Examples.Monoid.html#Eqspec.monoid_eqalgebra"><span class="id" title="definition">monoid_eqalgebra</span></a>.<br/>
+<span class="id" title="keyword">Proof</span>.<br/>
 &nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.Algebra.Universal.EqAlgebras.html#make_eqalgebra"><span class="id" title="definition">make_eqalgebra</span></a>.<br/>
 &nbsp;&nbsp;- <span class="id" title="tactic">exact</span> (<a class="idref" href="UniMath.Algebra.Universal.Examples.Monoid.html#monoid_algebra"><span class="id" title="definition">monoid_algebra</span></a> <a class="idref" href="UniMath.Algebra.Universal.Examples.Monoid.html#Eqspec.Make_Monoid_Eqalgebra.M"><span class="id" title="variable">M</span></a>).<br/>
 &nbsp;&nbsp;- <span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.Algebra.Universal.Examples.Monoid.html#Eqspec.is_eqalgebra_monoid"><span class="id" title="definition">is_eqalgebra_monoid</span></a>.<br/>

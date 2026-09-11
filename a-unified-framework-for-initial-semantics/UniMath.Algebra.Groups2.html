@@ -679,6 +679,7 @@ The property of being in the same coset defines an equivalence relation.
 
 <br/>
 &nbsp;&nbsp;<span class="id" title="keyword">Definition</span> <a id="in_same_left_coset_eqrel" class="idref" href="#in_same_left_coset_eqrel"><span class="id" title="definition">in_same_left_coset_eqrel</span></a> : <a class="idref" href="UniMath.Foundations.Sets.html#eqrel"><span class="id" title="definition">eqrel</span></a> <a class="idref" href="UniMath.Algebra.Groups2.html#GrCosets.X"><span class="id" title="variable">X</span></a>.<br/>
+&nbsp;&nbsp;<a class="proof" href="#">Show proof.</a><br/><div class="proof">
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Sets.html#make_eqrel"><span class="id" title="definition">make_eqrel</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- <span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.Algebra.Groups2.html#in_same_left_coset_prop"><span class="id" title="definition">in_same_left_coset_prop</span></a>.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- <span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.Sets.html#iseqrelconstr"><span class="id" title="definition">iseqrelconstr</span></a>.<br/>
@@ -723,7 +724,7 @@ Symmetry
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="tactic">refine</span> (<a class="idref" href="UniMath.Algebra.Monoids2.html#assocax"><span class="id" title="definition">assocax</span></a> <span class="id" title="var">_</span> <span class="id" title="var">_</span> <span class="id" title="var">_</span> <span class="id" title="var">_</span> <a class="idref" href="UniMath.Foundations.PartA.html#8b57b11be4275b47948f6caec264b70f"><span class="id" title="notation">@</span></a> <span class="id" title="var">_</span>).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="tactic">refine</span> (<a class="idref" href="UniMath.Foundations.PartA.html#maponpaths"><span class="id" title="definition">maponpaths</span></a> <span class="id" title="var">_</span> (<a class="idref" href="UniMath.Algebra.Groups2.html#grrinvax"><span class="id" title="definition">grrinvax</span></a> <span class="id" title="var">_</span> <span class="id" title="var">_</span>) <a class="idref" href="UniMath.Foundations.PartA.html#8b57b11be4275b47948f6caec264b70f"><span class="id" title="notation">@</span></a> <span class="id" title="var">_</span>).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="tactic">apply</span> <a class="idref" href="UniMath.Algebra.Monoids2.html#runax"><span class="id" title="definition">runax</span></a>.<br/>
-&nbsp;&nbsp;<span class="id" title="keyword">Defined</span>.<br/>
+</div>
 
 <br/>
 </div>
