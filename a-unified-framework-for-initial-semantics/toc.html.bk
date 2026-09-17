@@ -10364,6 +10364,7 @@
 <h2><a href="UniMath.CategoryTheory.Monoidal.Examples.DisplayedCartesianMonoidal.html">Library UniMath.CategoryTheory.Monoidal.Examples.DisplayedCartesianMonoidal</a></h2>
 <h2><a href="UniMath.CategoryTheory.Monoidal.Examples.StructuresMonoidal.html">Library UniMath.CategoryTheory.Monoidal.Examples.StructuresMonoidal</a></h2>
 <h2><a href="UniMath.CategoryTheory.Monoidal.Examples.EndofunctorsMonoidalElementary.html">Library UniMath.CategoryTheory.Monoidal.Examples.EndofunctorsMonoidalElementary</a></h2>
+<h2><a href="UniMath.CategoryTheory.Monoidal.Examples.ModuleSignatureNotRepresentable.html">Library UniMath.CategoryTheory.Monoidal.Examples.ModuleSignatureNotRepresentable</a></h2>
 <h2><a href="UniMath.CategoryTheory.Monoidal.Examples.MonadsAsMonoidsElementary.html">Library UniMath.CategoryTheory.Monoidal.Examples.MonadsAsMonoidsElementary</a></h2>
 <h2><a href="UniMath.CategoryTheory.Monoidal.Examples.MonoidalPointedObjects.html">Library UniMath.CategoryTheory.Monoidal.Examples.MonoidalPointedObjects</a></h2>
 <h2><a href="UniMath.CategoryTheory.Monoidal.Displayed.MonoidalFunctorLifting.html">Library UniMath.CategoryTheory.Monoidal.Displayed.MonoidalFunctorLifting</a></h2>
@@ -17209,6 +17210,7 @@
 <h2><a href="UniMath.SubstitutionSystems.EquivalenceLaxLineatorsHomogeneousCase.html">Library UniMath.SubstitutionSystems.EquivalenceLaxLineatorsHomogeneousCase</a></h2>
 <h2><a href="UniMath.SubstitutionSystems.SigmaMonoids.html">Library UniMath.SubstitutionSystems.SigmaMonoids</a></h2>
 <h2><a href="UniMath.SubstitutionSystems.ConstructionOfGHSS.html">Library UniMath.SubstitutionSystems.ConstructionOfGHSS</a></h2>
+<h2><a href="UniMath.SubstitutionSystems.FreeModelAdjunction.html">Library UniMath.SubstitutionSystems.FreeModelAdjunction</a></h2>
 <h2><a href="UniMath.SubstitutionSystems.BindingSigToMonad_actegorical.html">Library UniMath.SubstitutionSystems.BindingSigToMonad_actegorical</a></h2>
 <h2><a href="UniMath.SubstitutionSystems.ContinuitySignature.GeneralLemmas.html">Library UniMath.SubstitutionSystems.ContinuitySignature.GeneralLemmas</a></h2>
 <h2><a href="UniMath.SubstitutionSystems.ContinuitySignature.CommutingOfOmegaLimitsAndCoproducts.html">Library UniMath.SubstitutionSystems.ContinuitySignature.CommutingOfOmegaLimitsAndCoproducts</a></h2>

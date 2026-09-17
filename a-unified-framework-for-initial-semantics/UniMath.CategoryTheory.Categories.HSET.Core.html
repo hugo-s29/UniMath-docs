@@ -72,6 +72,7 @@ Extended by: Anders Mörtberg (October 2015)
 <span class="id" title="keyword">Require</span> <span class="id" title="keyword">Import</span> <a class="idref" href="UniMath.Foundations.NaturalNumbers.html#"><span class="id" title="library">UniMath.Foundations.NaturalNumbers</span></a>.<br/>
 <span class="id" title="keyword">Require</span> <span class="id" title="keyword">Import</span> <a class="idref" href="UniMath.Foundations.HLevels.html#"><span class="id" title="library">UniMath.Foundations.HLevels</span></a>.<br/>
 <span class="id" title="keyword">Require</span> <span class="id" title="keyword">Import</span> <a class="idref" href="UniMath.MoreFoundations.PartA.html#"><span class="id" title="library">UniMath.MoreFoundations.PartA</span></a>.<br/>
+<span class="id" title="keyword">Require</span> <span class="id" title="keyword">Import</span> <a class="idref" href="UniMath.MoreFoundations.Subtypes.html#"><span class="id" title="library">UniMath.MoreFoundations.Subtypes</span></a>.<br/>
 
 <br/>
 <span class="id" title="keyword">Require</span> <span class="id" title="keyword">Import</span> <a class="idref" href="UniMath.CategoryTheory.Core.Categories.html#"><span class="id" title="library">UniMath.CategoryTheory.Core.Categories</span></a>.<br/>
@@ -158,6 +159,36 @@ Extended by: Anders Mörtberg (October 2015)
 <br/>
 <span class="id" title="keyword">Definition</span> <a id="natHSET" class="idref" href="#natHSET"><span class="id" title="definition">natHSET</span></a> : <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#::cat:'HSET'"><span class="id" title="notation">HSET</span></a><br/>
 &nbsp;&nbsp;:= <a class="idref" href="UniMath.Foundations.NaturalNumbers.html#natset"><span class="id" title="definition">natset</span></a>.<br/>
+
+<br/>
+<span class="id" title="keyword">Definition</span> <a id="powerset_functor_data" class="idref" href="#powerset_functor_data"><span class="id" title="definition">powerset_functor_data</span></a> <br/>
+&nbsp;&nbsp;: <a class="idref" href="UniMath.CategoryTheory.Core.Functors.html#functor_data"><span class="id" title="definition">functor_data</span></a> <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#::cat:'SET'"><span class="id" title="notation">SET</span></a> <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#::cat:'SET'"><span class="id" title="notation">SET</span></a>.<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
+&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.CategoryTheory.Core.Functors.html#make_functor_data"><span class="id" title="definition">make_functor_data</span></a>.<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">intro</span> <span class="id" title="var">X</span>; <span class="id" title="tactic">exact</span> (<a class="idref" href="UniMath.MoreFoundations.Subtypes.html#subtype_set"><span class="id" title="definition">subtype_set</span></a> (<a class="idref" href="UniMath.Foundations.Preamble.html#pr1"><span class="id" title="projection">pr1</span></a> <span class="id" title="var">X</span>)).<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">intros</span> <span class="id" title="var">X</span> <span class="id" title="var">Y</span> <span class="id" title="var">f</span> <span class="id" title="var">u</span>; <span class="id" title="tactic">exact</span> (<a class="idref" href="UniMath.MoreFoundations.Subtypes.html#image_hsubtype"><span class="id" title="definition">image_hsubtype</span></a> <span class="id" title="var">u</span> <span class="id" title="var">f</span>).<br/>
+</div>
+
+<br/>
+<span class="id" title="keyword">Lemma</span> <a id="powerset_functor_axioms" class="idref" href="#powerset_functor_axioms"><span class="id" title="lemma">powerset_functor_axioms</span></a><br/>
+&nbsp;&nbsp;: <a class="idref" href="UniMath.CategoryTheory.Core.Functors.html#is_functor"><span class="id" title="definition">is_functor</span></a> <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#powerset_functor_data"><span class="id" title="definition">powerset_functor_data</span></a>.<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
+&nbsp;&nbsp;<span class="id" title="tactic">split</span>.<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">intro</span> <span class="id" title="var">X</span>; <span class="id" title="var">cbn</span>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.UnivalenceAxiom.html#funextsec"><span class="id" title="definition">funextsec</span></a>; <span class="id" title="tactic">intro</span> <span class="id" title="var">u</span>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.MoreFoundations.Subtypes.html#image_hsubtype_id"><span class="id" title="definition">image_hsubtype_id</span></a>.<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">intros</span> <span class="id" title="var">X</span> <span class="id" title="var">Y</span> <span class="id" title="var">Z</span> <span class="id" title="var">f</span> <span class="id" title="var">g</span>; <span class="id" title="var">cbn</span>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.Foundations.UnivalenceAxiom.html#funextsec"><span class="id" title="definition">funextsec</span></a>; <span class="id" title="tactic">intro</span> <span class="id" title="var">u</span>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.MoreFoundations.Subtypes.html#image_hsubtype_comp"><span class="id" title="definition">image_hsubtype_comp</span></a>.<br/>
+</div>
+
+<br/>
+<span class="id" title="keyword">Definition</span> <a id="powerset_functor" class="idref" href="#powerset_functor"><span class="id" title="definition">powerset_functor</span></a> : <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#::cat:'SET'"><span class="id" title="notation">SET</span></a> <a class="idref" href="UniMath.CategoryTheory.Core.Functors.html#2e11fa34845c6475af27ac9ab3f166ed"><span class="id" title="notation">⟶</span></a>  <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#::cat:'SET'"><span class="id" title="notation">SET</span></a>.<br/>
+<a class="proof" href="#">Show proof.</a><br/><div class="proof">
+&nbsp;&nbsp;<span class="id" title="var">use</span> <a class="idref" href="UniMath.CategoryTheory.Core.Functors.html#make_functor"><span class="id" title="definition">make_functor</span></a>.<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#powerset_functor_data"><span class="id" title="definition">powerset_functor_data</span></a>.<br/>
+&nbsp;&nbsp;- <span class="id" title="tactic">exact</span> <a class="idref" href="UniMath.CategoryTheory.Categories.HSET.Core.html#powerset_functor_axioms"><span class="id" title="lemma">powerset_functor_axioms</span></a>.<br/>
+</div>
 
 <br/>
 <span class="id" title="keyword">Section</span> <a id="HomSetFunctors" class="idref" href="#HomSetFunctors"><span class="id" title="section">HomSetFunctors</span></a>.<br/>

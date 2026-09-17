@@ -387,7 +387,7 @@ we are following the introductory pages of Janelidze and Kelly,
 
 <div class="doc">
 one might also consider the other direction: that an action gives rise to a strong
-      monoidal functor from <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.ConstructionOfGHSS.html#FixTheContext.Mon_V"><span class="id" title="variable">Mon_V</span></a></span> to <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.MonoidalCategories.ActionBasedStrength.html#Alternative_Definition_Whiskered.Mon_EndA"><span class="id" title="variable">Mon_EndA</span></a></span>, showing that the "concrete" action definition
+      monoidal functor from <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.FreeModelAdjunction.html#FreeModelAdjunction.Mon_V"><span class="id" title="variable">Mon_V</span></a></span> to <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.MonoidalCategories.ActionBasedStrength.html#Alternative_Definition_Whiskered.Mon_EndA"><span class="id" title="variable">Mon_EndA</span></a></span>, showing that the "concrete" action definition
       adhered to in the further development is also complete w.r.t. that "generic" definition 
 </div>
 <div class="code">
