@@ -21,11 +21,11 @@
 </div>
 
 <div class="doc">
-<a id="lab2634"></a><h1 class="section">Enriched categories</h1>
+<a id="lab2635"></a><h1 class="section">Enriched categories</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab2635"></a><h2 class="section">Contents</h2>
+<a id="lab2636"></a><h2 class="section">Contents</h2>
 
 
 <div class="paragraph"> </div>
@@ -121,7 +121,7 @@ For the whole file, fix a monoidal category.
 </div>
 
 <div class="doc">
-<a id="lab2636"></a><h2 class="section">Definition</h2>
+<a id="lab2637"></a><h2 class="section">Definition</h2>
 
 <div class="paragraph"> </div>
 
@@ -273,7 +273,7 @@ Accessors
 </div>
 
 <div class="doc">
-<a id="lab2637"></a><h3 class="section">Enriched functors</h3>
+<a id="lab2638"></a><h3 class="section">Enriched functors</h3>
 
 </div>
 <div class="code">
@@ -407,7 +407,7 @@ Accessors for axioms
 </div>
 
 <div class="doc">
-<a id="lab2638"></a><h3 class="section">Composition of enriched functors</h3>
+<a id="lab2639"></a><h3 class="section">Composition of enriched functors</h3>
 
 </div>
 <div class="code">

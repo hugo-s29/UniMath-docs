@@ -106,7 +106,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4592"></a><h1 class="section">1. The equivalence between R and K</h1>
+<a id="lab4593"></a><h1 class="section">1. The equivalence between R and K</h1>
 
 </div>
 <div class="code">
@@ -125,7 +125,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4593"></a><h1 class="section">2. The fully faithful functor from LL to K</h1>
+<a id="lab4594"></a><h1 class="section">2. The fully faithful functor from LL to K</h1>
 
 </div>
 <div class="code">
@@ -234,7 +234,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4594"></a><h1 class="section">2.1. The isomorphism between the composed functor and the embedding from L1 to K</h1>
+<a id="lab4595"></a><h1 class="section">2.1. The isomorphism between the composed functor and the embedding from L1 to K</h1>
 
 </div>
 <div class="code">
@@ -346,7 +346,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4595"></a><h1 class="section">3. The equivalence</h1>
+<a id="lab4596"></a><h1 class="section">3. The equivalence</h1>
 
 </div>
 <div class="code">

@@ -50,7 +50,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3609"></a><h1 class="section">1. Notations for comprehension categories</h1>
+<a id="lab3610"></a><h1 class="section">1. Notations for comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -491,7 +491,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3610"></a><h1 class="section">2. Terms in comprehension categories</h1>
+<a id="lab3611"></a><h1 class="section">2. Terms in comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -761,7 +761,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3611"></a><h1 class="section">3. Coercion of terms</h1>
+<a id="lab3612"></a><h1 class="section">3. Coercion of terms</h1>
 
 </div>
 <div class="code">
@@ -821,7 +821,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3612"></a><h1 class="section">4. Substitution and coherence</h1>
+<a id="lab3613"></a><h1 class="section">4. Substitution and coherence</h1>
 
 </div>
 <div class="code">
@@ -1747,7 +1747,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3613"></a><h1 class="section">5. Variable rule</h1>
+<a id="lab3614"></a><h1 class="section">5. Variable rule</h1>
 
 </div>
 <div class="code">
@@ -1915,7 +1915,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3614"></a><h1 class="section">6. Notations and accessors for functors of comprehension categories</h1>
+<a id="lab3615"></a><h1 class="section">6. Notations and accessors for functors of comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -2369,7 +2369,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3615"></a><h1 class="section">7. Notations and accessors for natural transformations of comprehension categories</h1>
+<a id="lab3616"></a><h1 class="section">7. Notations and accessors for natural transformations of comprehension categories</h1>
 
 </div>
 <div class="code">

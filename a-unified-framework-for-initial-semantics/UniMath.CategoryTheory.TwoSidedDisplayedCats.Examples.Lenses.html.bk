@@ -50,7 +50,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2814"></a><h1 class="section">1. Definition via two-sided displayed categories</h1>
+<a id="lab2815"></a><h1 class="section">1. Definition via two-sided displayed categories</h1>
 
 </div>
 <div class="code">
@@ -241,7 +241,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2815"></a><h1 class="section">2. Discreteness and univalence</h1>
+<a id="lab2816"></a><h1 class="section">2. Discreteness and univalence</h1>
 
 </div>
 <div class="code">
@@ -391,7 +391,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2816"></a><h1 class="section">3. Builders and accessors</h1>
+<a id="lab2817"></a><h1 class="section">3. Builders and accessors</h1>
 
 </div>
 <div class="code">
@@ -564,7 +564,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2817"></a><h1 class="section">4. Identity and composition of lenses</h1>
+<a id="lab2818"></a><h1 class="section">4. Identity and composition of lenses</h1>
 
 </div>
 <div class="code">
@@ -826,7 +826,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2818"></a><h1 class="section">5. Identity and composition laws of lenses</h1>
+<a id="lab2819"></a><h1 class="section">5. Identity and composition laws of lenses</h1>
 
 </div>
 <div class="code">

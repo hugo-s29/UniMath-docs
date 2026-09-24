@@ -54,7 +54,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3641"></a><h1 class="section">1. Preliminaries on pi-types</h1>
+<a id="lab3642"></a><h1 class="section">1. Preliminaries on pi-types</h1>
 
 </div>
 <div class="code">
@@ -106,7 +106,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3642"></a><h1 class="section">2. Dependent products for morphisms that are isomorphic to projections</h1>
+<a id="lab3643"></a><h1 class="section">2. Dependent products for morphisms that are isomorphic to projections</h1>
 
 </div>
 <div class="code">
@@ -151,7 +151,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3643"></a><h1 class="section">3. Builders for dependent products</h1>
+<a id="lab3644"></a><h1 class="section">3. Builders for dependent products</h1>
 
 </div>
 <div class="code">
@@ -191,7 +191,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3644"></a><h1 class="section">4. Uniqueness of dependent products</h1>
+<a id="lab3645"></a><h1 class="section">4. Uniqueness of dependent products</h1>
 
 </div>
 <div class="code">
@@ -225,7 +225,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3645"></a><h1 class="section">5. Preservation of dependent products</h1>
+<a id="lab3646"></a><h1 class="section">5. Preservation of dependent products</h1>
 
 </div>
 <div class="code">
@@ -270,11 +270,11 @@
 </div>
 
 <div class="doc">
-<a id="lab3646"></a><h1 class="section">6. Examples of functors that preserve dependent products</h1>
+<a id="lab3647"></a><h1 class="section">6. Examples of functors that preserve dependent products</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab3647"></a><h2 class="section">6.1. Functors that preserve all dependent products</h2>
+<a id="lab3648"></a><h2 class="section">6.1. Functors that preserve all dependent products</h2>
 
 </div>
 <div class="code">
@@ -329,7 +329,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3648"></a><h2 class="section">6.2. The identity</h2>
+<a id="lab3649"></a><h2 class="section">6.2. The identity</h2>
 
 </div>
 <div class="code">
@@ -374,7 +374,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3649"></a><h2 class="section">6.3. Composition</h2>
+<a id="lab3650"></a><h2 class="section">6.3. Composition</h2>
 
 </div>
 <div class="code">
@@ -563,7 +563,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3650"></a><h1 class="section">7. The displayed bicategory of pi-types</h1>
+<a id="lab3651"></a><h1 class="section">7. The displayed bicategory of pi-types</h1>
 
 </div>
 <div class="code">
@@ -585,7 +585,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3651"></a><h1 class="section">8. This displayed bicategory is univalent</h1>
+<a id="lab3652"></a><h1 class="section">8. This displayed bicategory is univalent</h1>
 
 </div>
 <div class="code">
@@ -644,7 +644,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3652"></a><h1 class="section">9. Pi-types for DFL full comprehension categories</h1>
+<a id="lab3653"></a><h1 class="section">9. Pi-types for DFL full comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -736,7 +736,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3653"></a><h1 class="section">10. Adjoint equivalences</h1>
+<a id="lab3654"></a><h1 class="section">10. Adjoint equivalences</h1>
 
 </div>
 <div class="code">
@@ -797,7 +797,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3654"></a><h1 class="section">11. Stability of dependent products for chosen pullbacks</h1>
+<a id="lab3655"></a><h1 class="section">11. Stability of dependent products for chosen pullbacks</h1>
 
 </div>
 <div class="code">

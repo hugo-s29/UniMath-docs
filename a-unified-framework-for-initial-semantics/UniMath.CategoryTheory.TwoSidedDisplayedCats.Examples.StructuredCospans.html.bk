@@ -48,7 +48,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2842"></a><h1 class="section">1. The 2-sided displayed category of structured cospans</h1>
+<a id="lab2843"></a><h1 class="section">1. The 2-sided displayed category of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -204,7 +204,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2843"></a><h1 class="section">2. Builders and accessors for structured cospans</h1>
+<a id="lab2844"></a><h1 class="section">2. Builders and accessors for structured cospans</h1>
 
 </div>
 <div class="code">
@@ -348,7 +348,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2844"></a><h1 class="section">3. The univalence of the 2-sided displayed category of structured cospans</h1>
+<a id="lab2845"></a><h1 class="section">3. The univalence of the 2-sided displayed category of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -420,7 +420,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2845"></a><h1 class="section">4. Isos of structured cospans</h1>
+<a id="lab2846"></a><h1 class="section">4. Isos of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -539,7 +539,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2846"></a><h1 class="section">5. The identity structured cospans</h1>
+<a id="lab2847"></a><h1 class="section">5. The identity structured cospans</h1>
 
 </div>
 <div class="code">
@@ -588,7 +588,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2847"></a><h1 class="section">6. The composition of structured cospans</h1>
+<a id="lab2848"></a><h1 class="section">6. The composition of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -680,7 +680,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2848"></a><h1 class="section">7. The left unitor of structured cospans</h1>
+<a id="lab2849"></a><h1 class="section">7. The left unitor of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -772,7 +772,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2849"></a><h1 class="section">8. The right unitor of structured cospans</h1>
+<a id="lab2850"></a><h1 class="section">8. The right unitor of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -864,7 +864,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2850"></a><h1 class="section">9. The associator of structured cospans</h1>
+<a id="lab2851"></a><h1 class="section">9. The associator of structured cospans</h1>
 
 </div>
 <div class="code">
@@ -1032,7 +1032,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2851"></a><h1 class="section">10. Companions and conjoints</h1>
+<a id="lab2852"></a><h1 class="section">10. Companions and conjoints</h1>
 
 </div>
 <div class="code">
@@ -1126,7 +1126,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2852"></a><h1 class="section">11. Functors on structured cospans</h1>
+<a id="lab2853"></a><h1 class="section">11. Functors on structured cospans</h1>
 
 </div>
 <div class="code">

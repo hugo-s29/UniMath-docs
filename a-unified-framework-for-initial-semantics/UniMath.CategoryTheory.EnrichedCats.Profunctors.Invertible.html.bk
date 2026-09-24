@@ -58,7 +58,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2705"></a><h1 class="section">1. Invertible profunctor transformations</h1>
+<a id="lab2706"></a><h1 class="section">1. Invertible profunctor transformations</h1>
 
 </div>
 <div class="code">
@@ -87,7 +87,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2706"></a><h1 class="section">2. The inverse transformation</h1>
+<a id="lab2707"></a><h1 class="section">2. The inverse transformation</h1>
 
 </div>
 <div class="code">
@@ -181,7 +181,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2707"></a><h1 class="section">3. The identity type of enriched profunctors</h1>
+<a id="lab2708"></a><h1 class="section">3. The identity type of enriched profunctors</h1>
 
 </div>
 <div class="code">

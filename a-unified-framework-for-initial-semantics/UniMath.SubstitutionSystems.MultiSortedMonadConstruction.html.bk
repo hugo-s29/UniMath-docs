@@ -93,7 +93,7 @@ discussions with them and Vladimir Voevodsky.
 </div>
 
 <div class="doc">
-<a id="lab4234"></a><h1 class="section">Definition of multisorted binding signatures</h1>
+<a id="lab4235"></a><h1 class="section">Definition of multisorted binding signatures</h1>
 
 </div>
 <div class="code">
@@ -113,7 +113,7 @@ discussions with them and Vladimir Voevodsky.
 </div>
 
 <div class="doc">
-<a id="lab4235"></a><h1 class="section">Construction of a monad from a multisorted signature</h1>
+<a id="lab4236"></a><h1 class="section">Construction of a monad from a multisorted signature</h1>
 
 </div>
 <div class="code">
@@ -159,7 +159,7 @@ discussions with them and Vladimir Voevodsky.
 </div>
 
 <div class="doc">
-<a id="lab4236"></a><h2 class="section">Function from multisorted binding signatures to monads</h2>
+<a id="lab4237"></a><h2 class="section">Function from multisorted binding signatures to monads</h2>
 
 </div>
 <div class="code">

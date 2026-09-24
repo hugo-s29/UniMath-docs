@@ -137,7 +137,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3848"></a><h1 class="section">1. Codes for a type</h1>
+<a id="lab3849"></a><h1 class="section">1. Codes for a type</h1>
 
 </div>
 <div class="code">
@@ -204,11 +204,11 @@
 </div>
 
 <div class="doc">
-<a id="lab3849"></a><h1 class="section">2. Examples for codes</h1>
+<a id="lab3850"></a><h1 class="section">2. Examples for codes</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab3850"></a><h2 class="section">2.1. The terminal object</h2>
+<a id="lab3851"></a><h2 class="section">2.1. The terminal object</h2>
 
 </div>
 <div class="code">
@@ -231,7 +231,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3851"></a><h2 class="section">2.2. The initial object</h2>
+<a id="lab3852"></a><h2 class="section">2.2. The initial object</h2>
 
 </div>
 <div class="code">
@@ -262,7 +262,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3852"></a><h2 class="section">2.3. Parameterized natural numbers object</h2>
+<a id="lab3853"></a><h2 class="section">2.3. Parameterized natural numbers object</h2>
 
 </div>
 <div class="code">
@@ -275,7 +275,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3853"></a><h2 class="section">2.4. Subobject classifier</h2>
+<a id="lab3854"></a><h2 class="section">2.4. Subobject classifier</h2>
 
 </div>
 <div class="code">
@@ -310,7 +310,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3854"></a><h1 class="section">3. Preservation by functors</h1>
+<a id="lab3855"></a><h1 class="section">3. Preservation by functors</h1>
 
 </div>
 <div class="code">
@@ -437,11 +437,11 @@
 </div>
 
 <div class="doc">
-<a id="lab3855"></a><h1 class="section">4. Examples for preservation</h1>
+<a id="lab3856"></a><h1 class="section">4. Examples for preservation</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab3856"></a><h2 class="section">4.1. Preservation of the code for the terminal object</h2>
+<a id="lab3857"></a><h2 class="section">4.1. Preservation of the code for the terminal object</h2>
 
 </div>
 <div class="code">
@@ -479,7 +479,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3857"></a><h2 class="section">4.2. Preservation of the code for the initial object</h2>
+<a id="lab3858"></a><h2 class="section">4.2. Preservation of the code for the initial object</h2>
 
 </div>
 <div class="code">
@@ -547,7 +547,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3858"></a><h2 class="section">4.3. Preservation of the code for the parameterized natural numbers object</h2>
+<a id="lab3859"></a><h2 class="section">4.3. Preservation of the code for the parameterized natural numbers object</h2>
 
 </div>
 <div class="code">
@@ -653,7 +653,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3859"></a><h2 class="section">4.4. Preservation of the code for the subobject classifier</h2>
+<a id="lab3860"></a><h2 class="section">4.4. Preservation of the code for the subobject classifier</h2>
 
 </div>
 <div class="code">
@@ -747,7 +747,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3860"></a><h1 class="section">5. Preservation by identity and composition</h1>
+<a id="lab3861"></a><h1 class="section">5. Preservation by identity and composition</h1>
 
 </div>
 <div class="code">
@@ -982,11 +982,11 @@
 </div>
 
 <div class="doc">
-<a id="lab3861"></a><h1 class="section">6. Instantiation to the examples</h1>
+<a id="lab3862"></a><h1 class="section">6. Instantiation to the examples</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab3862"></a><h2 class="section">6.1. Preservation of the code for the terminal object</h2>
+<a id="lab3863"></a><h2 class="section">6.1. Preservation of the code for the terminal object</h2>
 
 </div>
 <div class="code">
@@ -1033,7 +1033,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3863"></a><h2 class="section">6.2. Preservation of the code for the initial object</h2>
+<a id="lab3864"></a><h2 class="section">6.2. Preservation of the code for the initial object</h2>
 
 </div>
 <div class="code">
@@ -1089,7 +1089,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3864"></a><h2 class="section">6.3. Preservation of the code for the parameterized natural numbers object</h2>
+<a id="lab3865"></a><h2 class="section">6.3. Preservation of the code for the parameterized natural numbers object</h2>
 
 </div>
 <div class="code">
@@ -1148,7 +1148,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3865"></a><h2 class="section">6.4. Preservation of the code for the subobject classifier</h2>
+<a id="lab3866"></a><h2 class="section">6.4. Preservation of the code for the subobject classifier</h2>
 
 </div>
 <div class="code">
@@ -1211,7 +1211,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3866"></a><h1 class="section">7. Univalence condition</h1>
+<a id="lab3867"></a><h1 class="section">7. Univalence condition</h1>
 
 </div>
 <div class="code">
@@ -1261,7 +1261,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3867"></a><h2 class="section">7.1. Univalence condition for the terminal object</h2>
+<a id="lab3868"></a><h2 class="section">7.1. Univalence condition for the terminal object</h2>
 
 </div>
 <div class="code">
@@ -1284,7 +1284,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3868"></a><h2 class="section">7.2. Univalence condition for the initial object</h2>
+<a id="lab3869"></a><h2 class="section">7.2. Univalence condition for the initial object</h2>
 
 </div>
 <div class="code">
@@ -1311,7 +1311,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3869"></a><h2 class="section">7.3. Univalence condition for the parameterized natural numbers object</h2>
+<a id="lab3870"></a><h2 class="section">7.3. Univalence condition for the parameterized natural numbers object</h2>
 
 </div>
 <div class="code">
@@ -1335,7 +1335,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3870"></a><h2 class="section">7.4. Univalence condition for the subobject classifier</h2>
+<a id="lab3871"></a><h2 class="section">7.4. Univalence condition for the subobject classifier</h2>
 
 </div>
 <div class="code">

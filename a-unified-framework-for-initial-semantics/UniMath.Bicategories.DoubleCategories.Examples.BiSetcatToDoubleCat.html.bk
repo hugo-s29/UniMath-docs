@@ -49,7 +49,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3373"></a><h1 class="section">1. The underlying category</h1>
+<a id="lab3374"></a><h1 class="section">1. The underlying category</h1>
 
 </div>
 <div class="code">
@@ -64,7 +64,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3374"></a><h1 class="section">2. The 2-sided displayed category of 1-cells</h1>
+<a id="lab3375"></a><h1 class="section">2. The 2-sided displayed category of 1-cells</h1>
 
 </div>
 <div class="code">
@@ -147,7 +147,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3375"></a><h1 class="section">3. Horizontal identities</h1>
+<a id="lab3376"></a><h1 class="section">3. Horizontal identities</h1>
 
 </div>
 <div class="code">
@@ -191,7 +191,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3376"></a><h1 class="section">4. Horizontal composition</h1>
+<a id="lab3377"></a><h1 class="section">4. Horizontal composition</h1>
 
 </div>
 <div class="code">
@@ -326,7 +326,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3377"></a><h1 class="section">5. The unitors and associators</h1>
+<a id="lab3378"></a><h1 class="section">5. The unitors and associators</h1>
 
 </div>
 <div class="code">
@@ -629,7 +629,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3378"></a><h1 class="section">6. The pentagon and triangle equation</h1>
+<a id="lab3379"></a><h1 class="section">6. The pentagon and triangle equation</h1>
 
 </div>
 <div class="code">
@@ -761,7 +761,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3379"></a><h1 class="section">7. The double category corresponding to a bicategory</h1>
+<a id="lab3380"></a><h1 class="section">7. The double category corresponding to a bicategory</h1>
 
 </div>
 <div class="code">
@@ -785,7 +785,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3380"></a><h1 class="section">8. The pseudo double setcategory corresponding to a bicategory</h1>
+<a id="lab3381"></a><h1 class="section">8. The pseudo double setcategory corresponding to a bicategory</h1>
 
 </div>
 <div class="code">

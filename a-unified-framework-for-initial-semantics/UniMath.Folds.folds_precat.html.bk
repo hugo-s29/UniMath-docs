@@ -65,11 +65,11 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4257"></a><h1 class="section">The definition of a FOLDS precategory</h1>
+<a id="lab4258"></a><h1 class="section">The definition of a FOLDS precategory</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab4258"></a><h2 class="section">Objects and a dependent type of morphisms</h2>
+<a id="lab4259"></a><h2 class="section">Objects and a dependent type of morphisms</h2>
 
 </div>
 <div class="code">
@@ -94,7 +94,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4259"></a><h2 class="section">Identity and composition, given through predicates</h2>
+<a id="lab4260"></a><h2 class="section">Identity and composition, given through predicates</h2>
 
 </div>
 <div class="code">
@@ -118,7 +118,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4260"></a><h2 class="section">The axioms for identity</h2>
+<a id="lab4261"></a><h2 class="section">The axioms for identity</h2>
 
 </div>
 <div class="code">
@@ -166,7 +166,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4261"></a><h1 class="section">Some lemmas about FOLDS precategories</h1>
+<a id="lab4262"></a><h1 class="section">Some lemmas about FOLDS precategories</h1>
 
 <div class="paragraph"> </div>
 

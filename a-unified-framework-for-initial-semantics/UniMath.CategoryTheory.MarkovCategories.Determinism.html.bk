@@ -48,7 +48,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2934"></a><h1 class="section">1. Definition of Determinism</h1>
+<a id="lab2935"></a><h1 class="section">1. Definition of Determinism</h1>
 
 </div>
 <div class="code">
@@ -126,7 +126,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2935"></a><h1 class="section">2. Examples and Properties</h1>
+<a id="lab2936"></a><h1 class="section">2. Examples and Properties</h1>
 
 </div>
 <div class="code">
@@ -505,11 +505,11 @@
 </div>
 
 <div class="doc">
-<a id="lab2936"></a><h1 class="section">3. Automation</h1>
+<a id="lab2937"></a><h1 class="section">3. Automation</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab2937"></a><h2 class="section">3.1 A Hint Database <span class="inlinecode"><span class="id" title="var">autodet</span></span></h2>
+<a id="lab2938"></a><h2 class="section">3.1 A Hint Database <span class="inlinecode"><span class="id" title="var">autodet</span></span></h2>
 
 </div>
 <div class="code">
@@ -552,7 +552,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2938"></a><h2 class="section">3.2 Lemmas for a Calculus of Pairings</h2>
+<a id="lab2939"></a><h2 class="section">3.2 Lemmas for a Calculus of Pairings</h2>
 
 </div>
 <div class="code">
@@ -783,7 +783,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2939"></a><h2 class="section">3.3 Coherence Tactics</h2>
+<a id="lab2940"></a><h2 class="section">3.3 Coherence Tactics</h2>
 
 </div>
 <div class="code">

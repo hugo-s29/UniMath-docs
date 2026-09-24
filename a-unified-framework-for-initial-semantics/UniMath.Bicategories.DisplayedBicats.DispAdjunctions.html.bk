@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3062"></a><h1 class="section">Internal adjunction in displayed bicategories</h1>
+<a id="lab3063"></a><h1 class="section">Internal adjunction in displayed bicategories</h1>
 
 
 <div class="paragraph"> </div>
@@ -54,7 +54,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3063"></a><h1 class="section">Definitions and properties of displayed adjunctions</h1>
+<a id="lab3064"></a><h1 class="section">Definitions and properties of displayed adjunctions</h1>
 
 </div>
 <div class="code">
@@ -67,8 +67,8 @@
 </div>
 
 <div class="doc">
-<a id="lab3064"></a><h2 class="section">Displayed left adjoints</h2>
-<a id="lab3065"></a><h3 class="section">Data &amp; laws for left adjoints</h3>
+<a id="lab3065"></a><h2 class="section">Displayed left adjoints</h2>
+<a id="lab3066"></a><h3 class="section">Data &amp; laws for left adjoints</h3>
 
 </div>
 <div class="code">
@@ -201,7 +201,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3066"></a><h3 class="section">Laws for equivalences</h3>
+<a id="lab3067"></a><h3 class="section">Laws for equivalences</h3>
 
 </div>
 <div class="code">
@@ -265,7 +265,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3067"></a><h3 class="section">Packaged</h3>
+<a id="lab3068"></a><h3 class="section">Packaged</h3>
 
 </div>
 <div class="code">
@@ -333,7 +333,7 @@
 From now on, we need the <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.DisplayedBicats.DispBicat.html#has_disp_cellset"><span class="id" title="definition">has_disp_cellset</span></a></span> <span class="inlinecode"><span class="id" title="var">property</span></span>. 
 <div class="paragraph"> </div>
 
-<a id="lab3068"></a><h2 class="section">Identity is a displayed adjoint</h2>
+<a id="lab3069"></a><h2 class="section">Identity is a displayed adjoint</h2>
 
 </div>
 <div class="code">
@@ -521,7 +521,7 @@ From now on, we need the <span class="inlinecode"><a class="idref" href="UniMath
 </div>
 
 <div class="doc">
-<a id="lab3069"></a><h1 class="section">Classification of internal adjunctions in the total category</h1>
+<a id="lab3070"></a><h1 class="section">Classification of internal adjunctions in the total category</h1>
 
 </div>
 <div class="code">

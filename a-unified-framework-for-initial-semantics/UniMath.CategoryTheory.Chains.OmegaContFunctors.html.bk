@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2463"></a><h1 class="section">ω-cocontinuous functors</h1>
+<a id="lab2464"></a><h1 class="section">ω-cocontinuous functors</h1>
 
 
 <div class="paragraph"> </div>
@@ -99,7 +99,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2464"></a><h2 class="section">Right adjoints preserve limits</h2>
+<a id="lab2465"></a><h2 class="section">Right adjoints preserve limits</h2>
 
 </div>
 <div class="code">
@@ -115,7 +115,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2465"></a><h2 class="section">Identity preserves limits</h2>
+<a id="lab2466"></a><h2 class="section">Identity preserves limits</h2>
 
 </div>
 <div class="code">
@@ -131,7 +131,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2466"></a><h2 class="section">Constant functors</h2>
+<a id="lab2467"></a><h2 class="section">Constant functors</h2>
 
 </div>
 <div class="code">
@@ -146,7 +146,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2467"></a><h2 class="section">Composition of omega (continuous) functors</h2>
+<a id="lab2468"></a><h2 class="section">Composition of omega (continuous) functors</h2>
 
 </div>
 <div class="code">
@@ -173,7 +173,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2468"></a><h2 class="section">Functor iteration preserves (omega)-continuity</h2>
+<a id="lab2469"></a><h2 class="section">Functor iteration preserves (omega)-continuity</h2>
 
 </div>
 <div class="code">
@@ -191,7 +191,7 @@ Written by: Kobe Wullaert: October 2022
 </div>
 
 <div class="doc">
-<a id="lab2469"></a><h2 class="section">Binary product of functors: F * G : C -&gt; D is omega continuous</h2>
+<a id="lab2470"></a><h2 class="section">Binary product of functors: F * G : C -&gt; D is omega continuous</h2>
 
 </div>
 <div class="code">
@@ -267,7 +267,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2470"></a><h1 class="section">If a functor is part of an equivalence of categories,</h1>
+<a id="lab2471"></a><h1 class="section">If a functor is part of an equivalence of categories,</h1>
 
       it is both continuous and cocontinuous 
 </div>
@@ -301,7 +301,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2471"></a><h2 class="section">Post composition with a right adjoint is continuous</h2>
+<a id="lab2472"></a><h2 class="section">Post composition with a right adjoint is continuous</h2>
 
 </div>
 <div class="code">
@@ -333,7 +333,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2472"></a><h2 class="section">Direct proof that the precomposition functor is continuous</h2>
+<a id="lab2473"></a><h2 class="section">Direct proof that the precomposition functor is continuous</h2>
 
 </div>
 <div class="code">
@@ -375,7 +375,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2473"></a><h2 class="section">A pair of functors (F,G) : A * B -&gt; C * D is omega continuous if F and G are</h2>
+<a id="lab2474"></a><h2 class="section">A pair of functors (F,G) : A * B -&gt; C * D is omega continuous if F and G are</h2>
 
 </div>
 <div class="code">
@@ -410,7 +410,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2474"></a><h2 class="section">A functor F : A -&gt; product_category I B is (omega-)continuous if each F_i : A -&gt; B_i is</h2>
+<a id="lab2475"></a><h2 class="section">A functor F : A -&gt; product_category I B is (omega-)continuous if each F_i : A -&gt; B_i is</h2>
 
 </div>
 <div class="code">
@@ -483,7 +483,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2475"></a><h1 class="section"> </h1>
+<a id="lab2476"></a><h1 class="section"> </h1>
 
 </div>
 <div class="code">
@@ -515,7 +515,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2476"></a><h2 class="section">The functor "+ : C^I -&gt; C" is continuous is equivalently with saying that coproducts commute with limits</h2>
+<a id="lab2477"></a><h2 class="section">The functor "+ : C^I -&gt; C" is continuous is equivalently with saying that coproducts commute with limits</h2>
 
 </div>
 <div class="code">
@@ -536,7 +536,7 @@ Continuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2477"></a><h2 class="section">Coproduct of families of functors: + F_i : C -&gt; D is omega continuous given coproducts in D distribute over limits</h2>
+<a id="lab2478"></a><h2 class="section">Coproduct of families of functors: + F_i : C -&gt; D is omega continuous given coproducts in D distribute over limits</h2>
 
 </div>
 <div class="code">

@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4139"></a><h1 class="section">A library about decidable Dedekind Cuts</h1>
+<a id="lab4140"></a><h1 class="section">A library about decidable Dedekind Cuts</h1>
  Author: Catherine LELAY. Oct 2015 -  Additional results about Dedekind cuts which cannot be proved  without decidability 
 </div>
 <div class="code">
@@ -44,7 +44,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4140"></a><h2 class="section">Definition</h2>
+<a id="lab4141"></a><h2 class="section">Definition</h2>
 
 </div>
 <div class="code">

@@ -53,7 +53,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2686"></a><h1 class="section">1. Transformations between enriched profunctors</h1>
+<a id="lab2687"></a><h1 class="section">1. Transformations between enriched profunctors</h1>
 
 </div>
 <div class="code">
@@ -234,7 +234,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2687"></a><h1 class="section">2. Equivalence with the usual definition</h1>
+<a id="lab2688"></a><h1 class="section">2. Equivalence with the usual definition</h1>
 
 </div>
 <div class="code">
@@ -492,11 +492,11 @@
 </div>
 
 <div class="doc">
-<a id="lab2688"></a><h1 class="section">3. Standard transformations of profunctors</h1>
+<a id="lab2689"></a><h1 class="section">3. Standard transformations of profunctors</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab2689"></a><h2 class="section">3.1. The identity</h2>
+<a id="lab2690"></a><h2 class="section">3.1. The identity</h2>
 
 </div>
 <div class="code">
@@ -551,7 +551,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2690"></a><h2 class="section">3.2. Composition</h2>
+<a id="lab2691"></a><h2 class="section">3.2. Composition</h2>
 
 </div>
 <div class="code">
@@ -620,7 +620,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2691"></a><h1 class="section">4. Extra laws</h1>
+<a id="lab2692"></a><h1 class="section">4. Extra laws</h1>
 
 </div>
 <div class="code">

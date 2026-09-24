@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4378"></a><h1 class="section">Translation functors</h1>
+<a id="lab4379"></a><h1 class="section">Translation functors</h1>
 
 <div class="paragraph"> </div>
 
@@ -116,8 +116,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4379"></a><h1 class="section">Translation funtor for C(A) and for K(A)</h1>
-<a id="lab4380"></a><h2 class="section">Introduction</h2>
+<a id="lab4380"></a><h1 class="section">Translation funtor for C(A) and for K(A)</h1>
+<a id="lab4381"></a><h2 class="section">Introduction</h2>
 
 We define the translation functor T : C(A) -&gt; C(A) for complexes, and a translation functor
 T' : K(A) -&gt; K(A). The functor T' is constructed so that we have the following commutative
@@ -155,7 +155,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4381"></a><h2 class="section">Translation functor for C(A)</h2>
+<a id="lab4382"></a><h2 class="section">Translation functor for C(A)</h2>
 
 </div>
 <div class="code">
@@ -262,7 +262,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4382"></a><h3 class="section">Translation functor preserves homotopies</h3>
+<a id="lab4383"></a><h3 class="section">Translation functor preserves homotopies</h3>
 
 </div>
 <div class="code">
@@ -364,7 +364,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4383"></a><h3 class="section">Inverse of the translation functor functor</h3>
+<a id="lab4384"></a><h3 class="section">Inverse of the translation functor functor</h3>
 
 </div>
 <div class="code">
@@ -496,7 +496,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4384"></a><h3 class="section">InvTranslation functor preserves homotopies</h3>
+<a id="lab4385"></a><h3 class="section">InvTranslation functor preserves homotopies</h3>
 
 </div>
 <div class="code">
@@ -585,7 +585,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4385"></a><h2 class="section">Translation functor is an isomorphism, with inverse the inverse translation.</h2>
+<a id="lab4386"></a><h2 class="section">Translation functor is an isomorphism, with inverse the inverse translation.</h2>
 
 </div>
 <div class="code">
@@ -772,7 +772,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4386"></a><h3 class="section">Natural transformation for equivalence consisting of the translations</h3>
+<a id="lab4387"></a><h3 class="section">Natural transformation for equivalence consisting of the translations</h3>
 
 </div>
 <div class="code">
@@ -1111,11 +1111,11 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4387"></a><h2 class="section">Translation functor for K(A)</h2>
+<a id="lab4388"></a><h2 class="section">Translation functor for K(A)</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4388"></a><h3 class="section">Image for the translation functor</h3>
+<a id="lab4389"></a><h3 class="section">Image for the translation functor</h3>
 
 </div>
 <div class="code">
@@ -1162,7 +1162,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4389"></a><h3 class="section">Construction of the functor</h3>
+<a id="lab4390"></a><h3 class="section">Construction of the functor</h3>
 
 </div>
 <div class="code">
@@ -1366,7 +1366,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4390"></a><h2 class="section">Inverse translation in K(A)</h2>
+<a id="lab4391"></a><h2 class="section">Inverse translation in K(A)</h2>
 
 </div>
 <div class="code">
@@ -1414,7 +1414,7 @@ homotopies, that is if f is homotopic to g, then T(f) is homotopic to T(g). In
 </div>
 
 <div class="doc">
-<a id="lab4391"></a><h3 class="section">Construction of the functor</h3>
+<a id="lab4392"></a><h3 class="section">Construction of the functor</h3>
 
 </div>
 <div class="code">
@@ -1732,7 +1732,7 @@ Translation functors in K(A) are isomorphisms and inverse to each other.
 </div>
 
 <div class="doc">
-<a id="lab4392"></a><h2 class="section">Translation equivalence for K(A)</h2>
+<a id="lab4393"></a><h2 class="section">Translation equivalence for K(A)</h2>
 
 </div>
 <div class="code">

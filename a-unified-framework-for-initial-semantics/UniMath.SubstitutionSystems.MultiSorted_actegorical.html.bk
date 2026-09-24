@@ -193,7 +193,7 @@ end of Preamble copied from <span class="inlinecode"><span class="id" title="var
 </div>
 
 <div class="doc">
-<a id="lab4253"></a><h1 class="section">Construction of the lineator for the endofunctor on <span class="inlinecode"><a class="idref" href="UniMath.Semantics.EnrichedEffectCalculus.CopowerModel.html#CopowerModel.C"><span class="id" title="variable">C</span></a>^<a class="idref" href="UniMath.SubstitutionSystems.STLC_actegorical_abstractcat.html#A.sort"><span class="id" title="variable">sort</span></a>,<a class="idref" href="UniMath.Semantics.EnrichedEffectCalculus.CopowerModel.html#CopowerModel.C"><span class="id" title="variable">C</span></a>^<a class="idref" href="UniMath.SubstitutionSystems.STLC_actegorical_abstractcat.html#A.sort"><span class="id" title="variable">sort</span></a></span></h1>
+<a id="lab4254"></a><h1 class="section">Construction of the lineator for the endofunctor on <span class="inlinecode"><a class="idref" href="UniMath.Semantics.EnrichedEffectCalculus.CopowerModel.html#CopowerModel.C"><span class="id" title="variable">C</span></a>^<a class="idref" href="UniMath.SubstitutionSystems.STLC_actegorical_abstractcat.html#A.sort"><span class="id" title="variable">sort</span></a>,<a class="idref" href="UniMath.Semantics.EnrichedEffectCalculus.CopowerModel.html#CopowerModel.C"><span class="id" title="variable">C</span></a>^<a class="idref" href="UniMath.SubstitutionSystems.STLC_actegorical_abstractcat.html#A.sort"><span class="id" title="variable">sort</span></a></span></h1>
 
       derived from a multisorted signature 
 </div>
@@ -333,7 +333,7 @@ we are only interested in <span class="inlinecode"><a class="idref" href="UniMat
 </div>
 
 <div class="doc">
-<a id="lab4254"></a><h3 class="section">we now adapt the definitions to <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.MultiSortedMonadConstruction_coind_actegorical.html#MultiSortedSigToFunctor'"><span class="id" title="definition">MultiSortedSigToFunctor'</span></a></span></h3>
+<a id="lab4255"></a><h3 class="section">we now adapt the definitions to <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.MultiSortedMonadConstruction_coind_actegorical.html#MultiSortedSigToFunctor'"><span class="id" title="definition">MultiSortedSigToFunctor'</span></a></span></h3>
 
 </div>
 <div class="code">

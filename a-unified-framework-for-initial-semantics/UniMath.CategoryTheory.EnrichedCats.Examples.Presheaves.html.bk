@@ -59,7 +59,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2656"></a><h1 class="section">1. Hom objects of presheaves</h1>
+<a id="lab2657"></a><h1 class="section">1. Hom objects of presheaves</h1>
 
 </div>
 <div class="code">
@@ -247,7 +247,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2657"></a><h1 class="section">2. The identity for the enrichment</h1>
+<a id="lab2658"></a><h1 class="section">2. The identity for the enrichment</h1>
 
 </div>
 <div class="code">
@@ -403,7 +403,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2658"></a><h1 class="section">3. Composition for the enrichment</h1>
+<a id="lab2659"></a><h1 class="section">3. Composition for the enrichment</h1>
 
 </div>
 <div class="code">
@@ -642,7 +642,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2659"></a><h1 class="section">4. Global elements versus natural transformations</h1>
+<a id="lab2660"></a><h1 class="section">4. Global elements versus natural transformations</h1>
 
 </div>
 <div class="code">
@@ -873,7 +873,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2660"></a><h1 class="section">5. Laws of the enrichment</h1>
+<a id="lab2661"></a><h1 class="section">5. Laws of the enrichment</h1>
 
 </div>
 <div class="code">
@@ -1260,7 +1260,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2661"></a><h1 class="section">6. Enrichment for the presheaf category</h1>
+<a id="lab2662"></a><h1 class="section">6. Enrichment for the presheaf category</h1>
 
 </div>
 <div class="code">

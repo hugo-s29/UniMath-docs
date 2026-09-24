@@ -46,7 +46,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2943"></a><h1 class="section">1. Definition of the Information Flow Axioms</h1>
+<a id="lab2944"></a><h1 class="section">1. Definition of the Information Flow Axioms</h1>
 
 </div>
 <div class="code">
@@ -101,7 +101,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2944"></a><h1 class="section">2. Accessors</h1>
+<a id="lab2945"></a><h1 class="section">2. Accessors</h1>
 
 </div>
 <div class="code">
@@ -317,7 +317,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2945"></a><h1 class="section">3. Consequences of the Axioms</h1>
+<a id="lab2946"></a><h1 class="section">3. Consequences of the Axioms</h1>
 
 </div>
 <div class="code">

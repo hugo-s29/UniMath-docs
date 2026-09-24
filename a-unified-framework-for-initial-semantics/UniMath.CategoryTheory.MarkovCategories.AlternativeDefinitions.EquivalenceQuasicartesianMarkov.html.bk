@@ -49,7 +49,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2973"></a><h1 class="section">1. Construction: Markov To Quasicartesian</h1>
+<a id="lab2974"></a><h1 class="section">1. Construction: Markov To Quasicartesian</h1>
 
 </div>
 <div class="code">
@@ -117,7 +117,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2974"></a><h1 class="section">2. Construction: Quasicartesian To Markov</h1>
+<a id="lab2975"></a><h1 class="section">2. Construction: Quasicartesian To Markov</h1>
 
 </div>
 <div class="code">
@@ -326,7 +326,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2975"></a><h1 class="section">3. Round trips (proof of isomorphism)</h1>
+<a id="lab2976"></a><h1 class="section">3. Round trips (proof of isomorphism)</h1>
 
 </div>
 <div class="code">
@@ -428,7 +428,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2976"></a><h1 class="section">4. Construction of equivalence <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.MarkovCategories.MarkovCategory.html#markov_category"><span class="id" title="definition">markov_category</span></a></span> <span class="inlinecode">=</span> <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.MarkovCategories.AlternativeDefinitions.Quasicartesian.html#quasicartesian_category"><span class="id" title="definition">quasicartesian_category</span></a></span></h1>
+<a id="lab2977"></a><h1 class="section">4. Construction of equivalence <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.MarkovCategories.MarkovCategory.html#markov_category"><span class="id" title="definition">markov_category</span></a></span> <span class="inlinecode">=</span> <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.MarkovCategories.AlternativeDefinitions.Quasicartesian.html#quasicartesian_category"><span class="id" title="definition">quasicartesian_category</span></a></span></h1>
 
 </div>
 <div class="code">

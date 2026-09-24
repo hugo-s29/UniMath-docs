@@ -204,7 +204,7 @@ extract constructors
 </div>
 
 <div class="doc">
-<a id="lab4185"></a><h1 class="section">Definition of a "model" of the flattening arity in pure lambda calculus</h1>
+<a id="lab4186"></a><h1 class="section">Definition of a "model" of the flattening arity in pure lambda calculus</h1>
 
 <div class="paragraph"> </div>
 
@@ -510,7 +510,7 @@ Main lemma: our "model" for the flatten arity in pure lambda calculus is compati
 </div>
 
 <div class="doc">
-<a id="lab4186"></a><h1 class="section">Uniqueness of the bracket operation</h1>
+<a id="lab4187"></a><h1 class="section">Uniqueness of the bracket operation</h1>
  That is a consequence of uniqueness of that operation for a larger signature, namely
     for that of lambda calculus with flattening.
     We thus only have to extract the relevant parts, which is still a bit cumbersome.
@@ -639,7 +639,7 @@ Main lemma: our "model" for the flatten arity in pure lambda calculus is compati
 </div>
 
 <div class="doc">
-<a id="lab4187"></a><h1 class="section">Specification of a morphism from lambda calculus with flattening to pure lambda calculus</h1>
+<a id="lab4188"></a><h1 class="section">Specification of a morphism from lambda calculus with flattening to pure lambda calculus</h1>
 
 </div>
 <div class="code">

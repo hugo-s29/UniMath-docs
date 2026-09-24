@@ -70,7 +70,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3129"></a><h2 class="section">Definition of displayed pseudofunctor</h2>
+<a id="lab3130"></a><h2 class="section">Definition of displayed pseudofunctor</h2>
 
 </div>
 <div class="code">
@@ -87,7 +87,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3130"></a><h3 class="section">Data</h3>
+<a id="lab3131"></a><h3 class="section">Data</h3>
 
 </div>
 <div class="code">
@@ -207,7 +207,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3131"></a><h3 class="section">Properties</h3>
+<a id="lab3132"></a><h3 class="section">Properties</h3>
 
 </div>
 <div class="code">
@@ -344,7 +344,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3132"></a><h3 class="section">Disp pseudofunct</h3>
+<a id="lab3133"></a><h3 class="section">Disp pseudofunct</h3>
 
 </div>
 <div class="code">
@@ -462,7 +462,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3133"></a><h2 class="section">Identity</h2>
+<a id="lab3134"></a><h2 class="section">Identity</h2>
 
 </div>
 <div class="code">
@@ -617,7 +617,7 @@ Displayed pseudofunctors.
 </div>
 
 <div class="doc">
-<a id="lab3134"></a><h2 class="section">Composition</h2>
+<a id="lab3135"></a><h2 class="section">Composition</h2>
 
 </div>
 <div class="code">

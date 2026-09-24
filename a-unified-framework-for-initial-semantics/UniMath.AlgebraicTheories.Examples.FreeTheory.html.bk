@@ -55,7 +55,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4565"></a><h1 class="section">1. The free functor</h1>
+<a id="lab4566"></a><h1 class="section">1. The free functor</h1>
 
 </div>
 <div class="code">
@@ -143,7 +143,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4566"></a><h1 class="section">2. The forgetful functor</h1>
+<a id="lab4567"></a><h1 class="section">2. The forgetful functor</h1>
 
 </div>
 <div class="code">
@@ -173,7 +173,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4567"></a><h1 class="section">3. The adjunction</h1>
+<a id="lab4568"></a><h1 class="section">3. The adjunction</h1>
 
 </div>
 <div class="code">
@@ -288,7 +288,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4568"></a><h1 class="section">4. The equivalence between algebras and coslices</h1>
+<a id="lab4569"></a><h1 class="section">4. The equivalence between algebras and coslices</h1>
 
 </div>
 <div class="code">

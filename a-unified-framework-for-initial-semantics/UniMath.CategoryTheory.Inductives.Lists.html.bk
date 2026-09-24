@@ -70,7 +70,7 @@ Written by: Anders Mörtberg, 2016
 </div>
 
 <div class="doc">
-<a id="lab2479"></a><h1 class="section">Lists as the colimit of a chain given by the list functor: F(X) = 1 + A * X</h1>
+<a id="lab2480"></a><h1 class="section">Lists as the colimit of a chain given by the list functor: F(X) = 1 + A * X</h1>
 
 </div>
 <div class="code">
@@ -399,7 +399,7 @@ Some examples of computations with lists over nat
 </div>
 
 <div class="doc">
-<a id="lab2480"></a><h1 class="section">Equivalence with lists as iterated products</h1>
+<a id="lab2481"></a><h1 class="section">Equivalence with lists as iterated products</h1>
 
 </div>
 <div class="code">

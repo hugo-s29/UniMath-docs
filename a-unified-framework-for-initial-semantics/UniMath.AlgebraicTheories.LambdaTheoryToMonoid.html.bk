@@ -91,7 +91,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4616"></a><h1 class="section">1. The monoid</h1>
+<a id="lab4617"></a><h1 class="section">1. The monoid</h1>
 
 </div>
 <div class="code">
@@ -199,7 +199,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4617"></a><h1 class="section">2. The isomorphism with the algebraic theory monoid</h1>
+<a id="lab4618"></a><h1 class="section">2. The isomorphism with the algebraic theory monoid</h1>
 
 </div>
 <div class="code">
@@ -266,7 +266,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4618"></a><h2 class="section">2.1. This induces an equivalence on the Karoubi envelopes</h2>
+<a id="lab4619"></a><h2 class="section">2.1. This induces an equivalence on the Karoubi envelopes</h2>
 
 </div>
 <div class="code">
@@ -285,7 +285,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4619"></a><h1 class="section">3. The setcategory Karoubi envelope is equal to the category of retracts</h1>
+<a id="lab4620"></a><h1 class="section">3. The setcategory Karoubi envelope is equal to the category of retracts</h1>
 
 </div>
 <div class="code">

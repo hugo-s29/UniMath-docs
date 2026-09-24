@@ -23,7 +23,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2575"></a><h1 class="section">Displayed Category from a category with display maps</h1>
+<a id="lab2576"></a><h1 class="section">Displayed Category from a category with display maps</h1>
 
 
 <div class="paragraph"> </div>
@@ -67,7 +67,7 @@ category over <span class="inlinecode"><a class="idref" href="UniMath.Semantics.
 </div>
 
 <div class="doc">
-<a id="lab2576"></a><h1 class="section">Definition of a cartesian displayed functor</h1>
+<a id="lab2577"></a><h1 class="section">Definition of a cartesian displayed functor</h1>
 
 </div>
 <div class="code">

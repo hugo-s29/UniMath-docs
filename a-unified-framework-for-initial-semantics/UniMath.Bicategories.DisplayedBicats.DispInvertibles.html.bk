@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3056"></a><h1 class="section">Displayed invertible 2-cells</h1>
+<a id="lab3057"></a><h1 class="section">Displayed invertible 2-cells</h1>
 
 
 <div class="paragraph"> </div>
@@ -127,7 +127,7 @@ The displayed identity 2-cells are invertible
 </div>
 
 <div class="doc">
-<a id="lab3057"></a><h2 class="section">Being a displayed invertible 2-cell is a proposition</h2>
+<a id="lab3058"></a><h2 class="section">Being a displayed invertible 2-cell is a proposition</h2>
  The proof of this fact is a bit tricky, and used an intermediate datastructure <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.DisplayedBicats.DispInvertibles.html#disp_iso_total"><span class="id" title="definition">disp_iso_total</span></a></span>.
 
 </div>
@@ -403,7 +403,7 @@ The displayed identity 2-cells are invertible
 </div>
 
 <div class="doc">
-<a id="lab3058"></a><h2 class="section">Classification of invertible 2-cells in the total bicategory</h2>
+<a id="lab3059"></a><h2 class="section">Classification of invertible 2-cells in the total bicategory</h2>
 
 </div>
 <div class="code">
@@ -416,7 +416,7 @@ The displayed identity 2-cells are invertible
 </div>
 
 <div class="doc">
-<a id="lab3059"></a><h3 class="section">If a 2-cell is invertible in the total category, then it is invertible in the base category</h3>
+<a id="lab3060"></a><h3 class="section">If a 2-cell is invertible in the total category, then it is invertible in the base category</h3>
 
 </div>
 <div class="code">
@@ -449,7 +449,7 @@ The displayed identity 2-cells are invertible
 </div>
 
 <div class="doc">
-<a id="lab3060"></a><h3 class="section">If a 2-cell is invertible in the total category, then it is invertible in the fiber</h3>
+<a id="lab3061"></a><h3 class="section">If a 2-cell is invertible in the total category, then it is invertible in the fiber</h3>
 
 </div>
 <div class="code">
@@ -510,7 +510,7 @@ The displayed identity 2-cells are invertible
 </div>
 
 <div class="doc">
-<a id="lab3061"></a><h3 class="section">If the displayed 2-cell is invertible, then the corresponding 2-cell in the total bicategory is also invertible.</h3>
+<a id="lab3062"></a><h3 class="section">If the displayed 2-cell is invertible, then the corresponding 2-cell in the total bicategory is also invertible.</h3>
 
 </div>
 <div class="code">

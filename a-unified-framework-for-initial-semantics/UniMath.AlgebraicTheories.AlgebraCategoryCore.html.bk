@@ -50,8 +50,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4500"></a><h1 class="section">1. The dependent product category of theories and algebras</h1>
-<a id="lab4501"></a><h2 class="section">1.1. The full category of algebra data</h2>
+<a id="lab4501"></a><h1 class="section">1. The dependent product category of theories and algebras</h1>
+<a id="lab4502"></a><h2 class="section">1.1. The full category of algebra data</h2>
 
 </div>
 <div class="code">
@@ -109,7 +109,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4502"></a><h3 class="section">1.1.1. Temporary accessors</h3>
+<a id="lab4503"></a><h3 class="section">1.1.1. Temporary accessors</h3>
 
 </div>
 <div class="code">
@@ -163,7 +163,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4503"></a><h2 class="section">1.2. The full category of algebras</h2>
+<a id="lab4504"></a><h2 class="section">1.2. The full category of algebras</h2>
 
 </div>
 <div class="code">
@@ -211,7 +211,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4504"></a><h3 class="section">1.2.1. A lemma about algebras</h3>
+<a id="lab4505"></a><h3 class="section">1.2.1. A lemma about algebras</h3>
 
 </div>
 <div class="code">
@@ -230,7 +230,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4505"></a><h1 class="section">2. The category of algebras</h1>
+<a id="lab4506"></a><h1 class="section">2. The category of algebras</h1>
 
 </div>
 <div class="code">

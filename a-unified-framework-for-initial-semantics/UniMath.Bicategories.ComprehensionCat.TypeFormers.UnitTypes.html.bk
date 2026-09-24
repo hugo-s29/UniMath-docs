@@ -47,7 +47,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3616"></a><h1 class="section">1. The displayed bicategory of unit types</h1>
+<a id="lab3617"></a><h1 class="section">1. The displayed bicategory of unit types</h1>
 
 </div>
 <div class="code">
@@ -78,7 +78,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3617"></a><h1 class="section">2. The univalence of this displayed bicategory</h1>
+<a id="lab3618"></a><h1 class="section">2. The univalence of this displayed bicategory</h1>
 
 </div>
 <div class="code">
@@ -132,7 +132,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3618"></a><h1 class="section">3. Unit types for comprehension categories</h1>
+<a id="lab3619"></a><h1 class="section">3. Unit types for comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -188,7 +188,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3619"></a><h1 class="section">4. Unit types for full comprehension categories</h1>
+<a id="lab3620"></a><h1 class="section">4. Unit types for full comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -244,7 +244,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3620"></a><h1 class="section">5. Adjoint equivalences</h1>
+<a id="lab3621"></a><h1 class="section">5. Adjoint equivalences</h1>
 
 </div>
 <div class="code">
@@ -283,7 +283,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3621"></a><h1 class="section">6. Strong unit types</h1>
+<a id="lab3622"></a><h1 class="section">6. Strong unit types</h1>
 
 </div>
 <div class="code">

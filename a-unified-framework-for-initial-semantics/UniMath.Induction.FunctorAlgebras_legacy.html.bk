@@ -101,7 +101,7 @@ Contents :
 </div>
 
 <div class="doc">
-<a id="lab4457"></a><h2 class="section">Category of algebras of an endofunctor</h2>
+<a id="lab4458"></a><h2 class="section">Category of algebras of an endofunctor</h2>
 
 </div>
 <div class="code">
@@ -295,7 +295,7 @@ forgetful functor from FunctorAlg to its underlying category
 </div>
 
 <div class="doc">
-<a id="lab4458"></a><h2 class="section">This category is saturated if the base category is</h2>
+<a id="lab4459"></a><h2 class="section">This category is saturated if the base category is</h2>
 
 </div>
 <div class="code">
@@ -478,7 +478,7 @@ forgetful functor from FunctorAlg to its underlying category
 </div>
 
 <div class="doc">
-<a id="lab4459"></a><h2 class="section">Lambek's lemma: If (A,a) is an initial F-algebra then a is an iso</h2>
+<a id="lab4460"></a><h2 class="section">Lambek's lemma: If (A,a) is an initial F-algebra then a is an iso</h2>
 
 </div>
 <div class="code">
@@ -536,7 +536,7 @@ forgetful functor from FunctorAlg to its underlying category
 </div>
 
 <div class="doc">
-<a id="lab4460"></a><h2 class="section">The natural numbers are intial for X ↦ 1 + X</h2>
+<a id="lab4461"></a><h2 class="section">The natural numbers are intial for X ↦ 1 + X</h2>
 
 <div class="paragraph"> </div>
 

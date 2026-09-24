@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2437"></a><h1 class="section">Adámek's theorem</h1>
+<a id="lab2438"></a><h1 class="section">Adámek's theorem</h1>
 
 
 <div class="paragraph"> </div>
@@ -61,7 +61,7 @@ Written by: Anders Mörtberg and Benedikt Ahrens, 2015-2016
 </div>
 
 <div class="doc">
-<a id="lab2438"></a><h1 class="section">Adámek's theorem for constructing initial algebras of omega-cocontinuous functors</h1>
+<a id="lab2439"></a><h1 class="section">Adámek's theorem for constructing initial algebras of omega-cocontinuous functors</h1>
  This section proves that (L,α : F L -&gt; L) is the initial algebra
     where L is the colimit of the initial chain:
 <pre>

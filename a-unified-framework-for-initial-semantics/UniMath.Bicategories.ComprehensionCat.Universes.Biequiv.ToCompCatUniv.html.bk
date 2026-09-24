@@ -121,7 +121,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3799"></a><h1 class="section">1. Action on objects</h1>
+<a id="lab3800"></a><h1 class="section">1. Action on objects</h1>
 
 </div>
 <div class="code">
@@ -133,7 +133,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3800"></a><h2 class="section">1.1. Construction of the universe object</h2>
+<a id="lab3801"></a><h2 class="section">1.1. Construction of the universe object</h2>
 
 </div>
 <div class="code">
@@ -162,7 +162,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3801"></a><h2 class="section">1.2. Terms of the universe correspond to morphisms</h2>
+<a id="lab3802"></a><h2 class="section">1.2. Terms of the universe correspond to morphisms</h2>
 
 </div>
 <div class="code">
@@ -255,7 +255,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3802"></a><h2 class="section">1.3. Calculational lemma for stability</h2>
+<a id="lab3803"></a><h2 class="section">1.3. Calculational lemma for stability</h2>
 
 <div class="paragraph"> </div>
 
@@ -354,7 +354,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3803"></a><h2 class="section">1.4. The type associated to a term of the universe</h2>
+<a id="lab3804"></a><h2 class="section">1.4. The type associated to a term of the universe</h2>
 
 </div>
 <div class="code">
@@ -376,7 +376,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3804"></a><h2 class="section">1.5. Calculational lemma for equalities of the associated type</h2>
+<a id="lab3805"></a><h2 class="section">1.5. Calculational lemma for equalities of the associated type</h2>
 
 </div>
 <div class="code">
@@ -396,7 +396,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3805"></a><h2 class="section">1.6. Stability of the type associated to a term of the universe</h2>
+<a id="lab3806"></a><h2 class="section">1.6. Stability of the type associated to a term of the universe</h2>
 
 <div class="paragraph"> </div>
 
@@ -598,7 +598,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3806"></a><h2 class="section">1.7. The coherences</h2>
+<a id="lab3807"></a><h2 class="section">1.7. The coherences</h2>
 
 </div>
 <div class="code">
@@ -841,7 +841,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3807"></a><h1 class="section">2. Action on 1-cells</h1>
+<a id="lab3808"></a><h1 class="section">2. Action on 1-cells</h1>
 
 </div>
 <div class="code">
@@ -856,7 +856,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3808"></a><h2 class="section">2.1. Preservation of the universe type</h2>
+<a id="lab3809"></a><h2 class="section">2.1. Preservation of the universe type</h2>
 
 </div>
 <div class="code">
@@ -884,7 +884,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3809"></a><h2 class="section">2.2. A calculational lemma</h2>
+<a id="lab3810"></a><h2 class="section">2.2. A calculational lemma</h2>
 
 <div class="paragraph"> </div>
 
@@ -961,7 +961,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3810"></a><h2 class="section">2.3. Preservation of the associated type</h2>
+<a id="lab3811"></a><h2 class="section">2.3. Preservation of the associated type</h2>
 
 </div>
 <div class="code">
@@ -1047,7 +1047,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3811"></a><h2 class="section">2.4. The coherences</h2>
+<a id="lab3812"></a><h2 class="section">2.4. The coherences</h2>
 
 </div>
 <div class="code">
@@ -1224,7 +1224,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3812"></a><h1 class="section">3. The action on 2-cells</h1>
+<a id="lab3813"></a><h1 class="section">3. The action on 2-cells</h1>
 
 </div>
 <div class="code">
@@ -1379,7 +1379,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3813"></a><h1 class="section">4. The identitor</h1>
+<a id="lab3814"></a><h1 class="section">4. The identitor</h1>
 
 </div>
 <div class="code">
@@ -1598,7 +1598,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3814"></a><h1 class="section">5. The compositor</h1>
+<a id="lab3815"></a><h1 class="section">5. The compositor</h1>
 
 </div>
 <div class="code">
@@ -1910,7 +1910,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3815"></a><h1 class="section">6. The displayed pseudofunctor</h1>
+<a id="lab3816"></a><h1 class="section">6. The displayed pseudofunctor</h1>
 
 </div>
 <div class="code">

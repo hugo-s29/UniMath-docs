@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4412"></a><h1 class="section">K(A) is a pretriangulated category</h1>
+<a id="lab4413"></a><h1 class="section">K(A) is a pretriangulated category</h1>
  Contents
 <ul class="doclist">
 <li> K(A) pretriangulated
@@ -118,8 +118,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4413"></a><h1 class="section">K(A) with a structure of a pretriangulated category</h1>
-<a id="lab4414"></a><h2 class="section">Introduction</h2>
+<a id="lab4414"></a><h1 class="section">K(A) with a structure of a pretriangulated category</h1>
+<a id="lab4415"></a><h2 class="section">Introduction</h2>
 
 Let f : X --&gt; Y be a morphism in K(A). We use <span class="inlinecode"><a class="idref" href="UniMath.Foundations.Propositions.html#squash_to_prop"><span class="id" title="lemma">squash_to_prop</span></a></span> to obtain a morphism f' : X --&gt; Y
 which maps to f by the natural functor C(A) -&gt; K(A). To f' we associate a cone given by C(f'),
@@ -365,7 +365,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4415"></a><h2 class="section">Trivial triangle is distinguished</h2>
+<a id="lab4416"></a><h2 class="section">Trivial triangle is distinguished</h2>
 
 </div>
 <div class="code">
@@ -435,7 +435,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4416"></a><h2 class="section">Rotation of distinguished triangles</h2>
+<a id="lab4417"></a><h2 class="section">Rotation of distinguished triangles</h2>
 
 </div>
 <div class="code">
@@ -511,7 +511,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4417"></a><h2 class="section">Inverse rotation of distinguished triangles</h2>
+<a id="lab4418"></a><h2 class="section">Inverse rotation of distinguished triangles</h2>
 
 </div>
 <div class="code">
@@ -640,7 +640,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4418"></a><h2 class="section">Completion to distinguished triangle</h2>
+<a id="lab4419"></a><h2 class="section">Completion to distinguished triangle</h2>
 
 </div>
 <div class="code">
@@ -689,7 +689,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4419"></a><h2 class="section">Extension of squares</h2>
+<a id="lab4420"></a><h2 class="section">Extension of squares</h2>
 
 </div>
 <div class="code">
@@ -843,7 +843,7 @@ Different fibers of a same morphism induce an isomorphism
 </div>
 
 <div class="doc">
-<a id="lab4420"></a><h2 class="section">Closed under isomorphisms</h2>
+<a id="lab4421"></a><h2 class="section">Closed under isomorphisms</h2>
 
 </div>
 <div class="code">

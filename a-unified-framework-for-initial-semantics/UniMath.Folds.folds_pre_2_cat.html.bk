@@ -179,11 +179,11 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4277"></a><h1 class="section">The definition of a FOLDS pre-3-category</h1>
+<a id="lab4278"></a><h1 class="section">The definition of a FOLDS pre-3-category</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab4278"></a><h2 class="section">Objects and a dependent type of morphisms</h2>
+<a id="lab4279"></a><h2 class="section">Objects and a dependent type of morphisms</h2>
 
 </div>
 <div class="code">
@@ -210,7 +210,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4279"></a><h2 class="section">Identity, composition, and equality, given through predicates</h2>
+<a id="lab4280"></a><h2 class="section">Identity, composition, and equality, given through predicates</h2>
  We do not assume those to be propositions.  
 </div>
 <div class="code">
@@ -236,7 +236,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4280"></a><h2 class="section">E is an "equality", i.e. a congruence and equivalence</h2>
+<a id="lab4281"></a><h2 class="section">E is an "equality", i.e. a congruence and equivalence</h2>
 
 </div>
 <div class="code">
@@ -254,7 +254,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4281"></a><h2 class="section">The axioms for identity</h2>
+<a id="lab4282"></a><h2 class="section">The axioms for identity</h2>
 
 </div>
 <div class="code">
@@ -268,7 +268,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4282"></a><h2 class="section">The axioms for composition</h2>
+<a id="lab4283"></a><h2 class="section">The axioms for composition</h2>
 
 </div>
 <div class="code">
@@ -287,7 +287,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4283"></a><h2 class="section">A FOLDS pre-3-category is a package of</h2>
+<a id="lab4284"></a><h2 class="section">A FOLDS pre-3-category is a package of</h2>
 
 <ul class="doclist">
 <li> identity <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.PresheafCategory.html#Product.I"><span class="id" title="variable">I</span></a></span>
@@ -317,7 +317,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4284"></a><h1 class="section">FOLDS-2-precategories</h1>
+<a id="lab4285"></a><h1 class="section">FOLDS-2-precategories</h1>
  they are 3-precategories such that T, I and E are hProps 
 </div>
 <div class="code">
@@ -345,7 +345,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4285"></a><h1 class="section">FOLDS-2-isomorphisms</h1>
+<a id="lab4286"></a><h1 class="section">FOLDS-2-isomorphisms</h1>
 
 </div>
 <div class="code">
@@ -388,7 +388,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4286"></a><h1 class="section">In FOLDS-2-precats, <span class="inlinecode"><a class="idref" href="UniMath.Folds.folds_pre_2_cat.html#folds_iso"><span class="id" title="definition">folds_iso</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a></span> <span class="inlinecode">&lt;-&gt;</span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.E"><span class="id" title="variable">E</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a></span></h1>
+<a id="lab4287"></a><h1 class="section">In FOLDS-2-precats, <span class="inlinecode"><a class="idref" href="UniMath.Folds.folds_pre_2_cat.html#folds_iso"><span class="id" title="definition">folds_iso</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a></span> <span class="inlinecode">&lt;-&gt;</span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.E"><span class="id" title="variable">E</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a></span></h1>
 
 </div>
 <div class="code">
@@ -473,7 +473,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4287"></a><h1 class="section">Univalent FOLDS-2-precategory</h1>
+<a id="lab4288"></a><h1 class="section">Univalent FOLDS-2-precategory</h1>
  satisfies <span class="inlinecode"><a class="idref" href="UniMath.Foundations.PartA.html#isweq"><span class="id" title="definition">isweq</span></a></span> <span class="inlinecode">(<a class="idref" href="UniMath.Folds.folds_pre_2_cat.html#idtoiso2"><span class="id" title="definition">idtoiso2</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a>)</span> for any <span class="inlinecode"><a class="idref" href="UniMath.Semantics.LinearLogic.RelationalModel.html#CofreeComonoidUMP.f"><span class="id" title="variable">f</span></a></span> and <span class="inlinecode"><a class="idref" href="UniMath.AlgebraicTheories.RepresentationTheoremsRelation.html#Diagram.g"><span class="id" title="variable">g</span></a></span> 
 </div>
 <div class="code">
@@ -506,7 +506,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4288"></a><h1 class="section">FOLDS precategories</h1>
+<a id="lab4289"></a><h1 class="section">FOLDS precategories</h1>
  We define them as special FOLDS pre-2-categories, namely such that
 <ul class="doclist">
 <li> hom-types are sets
@@ -546,7 +546,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4289"></a><h1 class="section">Univalent FOLDS pre-2-category is a FOLDS precategory</h1>
+<a id="lab4290"></a><h1 class="section">Univalent FOLDS pre-2-category is a FOLDS precategory</h1>
 
 </div>
 <div class="code">
@@ -583,7 +583,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4290"></a><h1 class="section">FOLDS precategory implies univalence</h1>
+<a id="lab4291"></a><h1 class="section">FOLDS precategory implies univalence</h1>
 
 </div>
 <div class="code">

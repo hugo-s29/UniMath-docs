@@ -48,7 +48,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2559"></a><h1 class="section">1. One can consider any category as a displayed category over the unit category</h1>
+<a id="lab2560"></a><h1 class="section">1. One can consider any category as a displayed category over the unit category</h1>
 
 </div>
 <div class="code">
@@ -91,7 +91,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2560"></a><h2 class="section">1.1. Univalence of the category over the unit category</h2>
+<a id="lab2561"></a><h2 class="section">1.1. Univalence of the category over the unit category</h2>
 
 </div>
 <div class="code">
@@ -147,7 +147,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2561"></a><h1 class="section">2. The cartesian product as a displayed category over the first component</h1>
+<a id="lab2562"></a><h1 class="section">2. The cartesian product as a displayed category over the first component</h1>
 
 </div>
 <div class="code">
@@ -218,7 +218,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2562"></a><h2 class="section">2.1 The cartesian product creates limits</h2>
+<a id="lab2563"></a><h2 class="section">2.1 The cartesian product creates limits</h2>
 
 </div>
 <div class="code">
@@ -333,7 +333,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2563"></a><h1 class="section">3. The arrow category</h1>
+<a id="lab2564"></a><h1 class="section">3. The arrow category</h1>
 
 </div>
 <div class="code">
@@ -401,7 +401,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2564"></a><h1 class="section">4. A direct definition of the product category as a displayed category</h1>
+<a id="lab2565"></a><h1 class="section">4. A direct definition of the product category as a displayed category</h1>
 
 </div>
 <div class="code">
@@ -505,7 +505,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2565"></a><h1 class="section">4.1. This cartesian has limits as well</h1>
+<a id="lab2566"></a><h1 class="section">4.1. This cartesian has limits as well</h1>
 
 </div>
 <div class="code">

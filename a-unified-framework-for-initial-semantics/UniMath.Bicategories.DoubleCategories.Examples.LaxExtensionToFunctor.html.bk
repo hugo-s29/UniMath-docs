@@ -43,7 +43,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3323"></a><h1 class="section">1. Every lax extension gives rise to a lax double functor</h1>
+<a id="lab3324"></a><h1 class="section">1. Every lax extension gives rise to a lax double functor</h1>
 
 </div>
 <div class="code">
@@ -173,7 +173,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3324"></a><h1 class="section">2. Every lax double functor gives rise to a lax extension</h1>
+<a id="lab3325"></a><h1 class="section">2. Every lax double functor gives rise to a lax extension</h1>
 
 </div>
 <div class="code">
@@ -347,7 +347,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3325"></a><h1 class="section">3. Equivalence between lax double functors and functors with a lax extension</h1>
+<a id="lab3326"></a><h1 class="section">3. Equivalence between lax double functors and functors with a lax extension</h1>
 
 </div>
 <div class="code">

@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2440"></a><h1 class="section">ω-cocontinuous functors</h1>
+<a id="lab2441"></a><h1 class="section">ω-cocontinuous functors</h1>
 
 
 <div class="paragraph"> </div>
@@ -173,7 +173,7 @@ Written by: Anders Mörtberg and Benedikt Ahrens, 2015-2016
 </div>
 
 <div class="doc">
-<a id="lab2441"></a><h1 class="section">Examples of (omega) cocontinuous functors</h1>
+<a id="lab2442"></a><h1 class="section">Examples of (omega) cocontinuous functors</h1>
 
 </div>
 <div class="code">
@@ -183,7 +183,7 @@ Written by: Anders Mörtberg and Benedikt Ahrens, 2015-2016
 </div>
 
 <div class="doc">
-<a id="lab2442"></a><h2 class="section">Left adjoints preserve colimits</h2>
+<a id="lab2443"></a><h2 class="section">Left adjoints preserve colimits</h2>
 
 </div>
 <div class="code">
@@ -301,7 +301,7 @@ Cocontinuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2443"></a><h2 class="section">The identity functor is (omega) cocontinuous</h2>
+<a id="lab2444"></a><h2 class="section">The identity functor is (omega) cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -348,7 +348,7 @@ Cocontinuity is preserved by isomorphic functors
 </div>
 
 <div class="doc">
-<a id="lab2444"></a><h2 class="section">The constant functor is omega cocontinuous</h2>
+<a id="lab2445"></a><h2 class="section">The constant functor is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -403,7 +403,7 @@ The constant functor is omega cocontinuous
 </div>
 
 <div class="doc">
-<a id="lab2445"></a><h2 class="section">Functor composition preserves omega cocontinuity</h2>
+<a id="lab2446"></a><h2 class="section">Functor composition preserves omega cocontinuity</h2>
 
 </div>
 <div class="code">
@@ -450,7 +450,7 @@ The constant functor is omega cocontinuous
 </div>
 
 <div class="doc">
-<a id="lab2446"></a><h2 class="section">Functor iteration preserves (omega)-cocontinuity</h2>
+<a id="lab2447"></a><h2 class="section">Functor iteration preserves (omega)-cocontinuity</h2>
 
 </div>
 <div class="code">
@@ -486,7 +486,7 @@ The constant functor is omega cocontinuous
 </div>
 
 <div class="doc">
-<a id="lab2447"></a><h2 class="section">A pair of functors (F,G) : A * B -&gt; C * D is omega cocontinuous if F and G are</h2>
+<a id="lab2448"></a><h2 class="section">A pair of functors (F,G) : A * B -&gt; C * D is omega cocontinuous if F and G are</h2>
 
 </div>
 <div class="code">
@@ -651,7 +651,7 @@ The constant functor is omega cocontinuous
 </div>
 
 <div class="doc">
-<a id="lab2448"></a><h2 class="section">A functor F : A -&gt; product_category I B is (omega-)cocontinuous if each F_i : A -&gt; B_i is</h2>
+<a id="lab2449"></a><h2 class="section">A functor F : A -&gt; product_category I B is (omega-)cocontinuous if each F_i : A -&gt; B_i is</h2>
 
 </div>
 <div class="code">
@@ -749,7 +749,7 @@ The constant functor is omega cocontinuous
 </div>
 
 <div class="doc">
-<a id="lab2449"></a><h2 class="section">A family of functor F^I : A^I -&gt; B^I is omega cocontinuous if each F_i is</h2>
+<a id="lab2450"></a><h2 class="section">A family of functor F^I : A^I -&gt; B^I is omega cocontinuous if each F_i is</h2>
  TODO: split out section <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.ProductCategory.html#pr_functor"><span class="id" title="definition">pr_functor</span></a></span>, and then factor results on <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.Chains.OmegaCocontFunctors.html#cocont_functors.family_functor"><span class="id" title="section">family_functor</span></a></span> using that
 together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.Chains.OmegaContFunctors.html#tuple_functor"><span class="id" title="section">tuple_functor</span></a></span> (maybe after redefining <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.Chains.OmegaCocontFunctors.html#cocont_functors.family_functor"><span class="id" title="section">family_functor</span></a></span> using <span class="inlinecode"><a class="idref" href="UniMath.CategoryTheory.Chains.OmegaContFunctors.html#tuple_functor"><span class="id" title="section">tuple_functor</span></a></span>. 
 </div>
@@ -883,7 +883,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2450"></a><h2 class="section">The bindelta functor C -&gt; C^2 mapping x to (x,x) is omega cocontinuous</h2>
+<a id="lab2451"></a><h2 class="section">The bindelta functor C -&gt; C^2 mapping x to (x,x) is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -911,7 +911,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2451"></a><h2 class="section">The generalized delta functor C -&gt; C^I is omega cocontinuous</h2>
+<a id="lab2452"></a><h2 class="section">The generalized delta functor C -&gt; C^I is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -940,7 +940,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2452"></a><h2 class="section">The functor "+ : C^2 -&gt; C" is cocontinuous</h2>
+<a id="lab2453"></a><h2 class="section">The functor "+ : C^2 -&gt; C" is cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -969,7 +969,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2453"></a><h2 class="section">The functor "+ : C^I -&gt; C" is cocontinuous</h2>
+<a id="lab2454"></a><h2 class="section">The functor "+ : C^I -&gt; C" is cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -999,7 +999,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2454"></a><h2 class="section">Binary coproduct of functors: F + G : C -&gt; D is omega cocontinuous</h2>
+<a id="lab2455"></a><h2 class="section">Binary coproduct of functors: F + G : C -&gt; D is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1100,7 +1100,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2455"></a><h2 class="section">Coproduct of families of functors: + F_i : C -&gt; D is omega cocontinuous</h2>
+<a id="lab2456"></a><h2 class="section">Coproduct of families of functors: + F_i : C -&gt; D is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1150,7 +1150,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2456"></a><h2 class="section">Constant product functors: C -&gt; C, x |-&gt; a * x  and  x |-&gt; x * a are cocontinuous</h2>
+<a id="lab2457"></a><h2 class="section">Constant product functors: C -&gt; C, x |-&gt; a * x  and  x |-&gt; x * a are cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1199,7 +1199,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2457"></a><h2 class="section">The functor "* : C^2 -&gt; C" is omega cocontinuous</h2>
+<a id="lab2458"></a><h2 class="section">The functor "* : C^2 -&gt; C" is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1550,7 +1550,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2458"></a><h2 class="section">Binary product of functors: F * G : C -&gt; D is omega cocontinuous</h2>
+<a id="lab2459"></a><h2 class="section">Binary product of functors: F * G : C -&gt; D is omega cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1602,7 +1602,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2459"></a><h2 class="section">Direct proof that the precomposition functor is cocontinuous</h2>
+<a id="lab2460"></a><h2 class="section">Direct proof that the precomposition functor is cocontinuous</h2>
 
 </div>
 <div class="code">
@@ -1645,7 +1645,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2460"></a><h2 class="section">Precomposition functor is cocontinuous using construction of right Kan extensions</h2>
+<a id="lab2461"></a><h2 class="section">Precomposition functor is cocontinuous using construction of right Kan extensions</h2>
 
 </div>
 <div class="code">
@@ -1707,7 +1707,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2461"></a><h1 class="section">Swapping of functor category arguments</h1>
+<a id="lab2462"></a><h1 class="section">Swapping of functor category arguments</h1>
 
 </div>
 <div class="code">
@@ -1736,7 +1736,7 @@ together with <span class="inlinecode"><a class="idref" href="UniMath.CategoryTh
 </div>
 
 <div class="doc">
-<a id="lab2462"></a><h1 class="section">The forgetful functor from Set/X to Set preserves colimits</h1>
+<a id="lab2463"></a><h1 class="section">The forgetful functor from Set/X to Set preserves colimits</h1>
 
 </div>
 <div class="code">

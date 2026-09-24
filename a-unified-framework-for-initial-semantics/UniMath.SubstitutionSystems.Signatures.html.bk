@@ -95,7 +95,7 @@ Contents :
 Goal: define signatures as pairs of a rank-2 functor and a "strength" 
 <div class="paragraph"> </div>
 
-<a id="lab4141"></a><h1 class="section">Definition of signatures</h1>
+<a id="lab4142"></a><h1 class="section">Definition of signatures</h1>
 
 </div>
 <div class="code">
@@ -156,7 +156,7 @@ we do not yet have a use of this third category being different from the very fi
 </div>
 
 <div class="doc">
-<a id="lab4142"></a><h2 class="section">Source and target of the natural transformation <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.FreeModelAdjunction.html#4d75203ddf7518c9170f581437ba6960"><span class="id" title="variable">θ</span></a></span></h2>
+<a id="lab4143"></a><h2 class="section">Source and target of the natural transformation <span class="inlinecode"><a class="idref" href="UniMath.SubstitutionSystems.FreeModelAdjunction.html#4d75203ddf7518c9170f581437ba6960"><span class="id" title="variable">θ</span></a></span></h2>
 
 <div class="paragraph"> </div>
 
@@ -204,7 +204,7 @@ Target is given by <span class="inlinecode">(<a class="idref" href="UniMath.Sema
 </div>
 
 <div class="doc">
-<a id="lab4143"></a><h1 class="section">Two alternative versions of the strength laws are defined and seen as equivalent</h1>
+<a id="lab4144"></a><h1 class="section">Two alternative versions of the strength laws are defined and seen as equivalent</h1>
 
 <div class="paragraph"> </div>
 
@@ -575,7 +575,7 @@ Not having a general theory of binatural transformations, we isolate
 </div>
 
 <div class="doc">
-<a id="lab4144"></a><h1 class="section">Definition of encapsulations of strength (locally/globally, with/without laws</h1>
+<a id="lab4145"></a><h1 class="section">Definition of encapsulations of strength (locally/globally, with/without laws</h1>
 
 </div>
 <div class="code">

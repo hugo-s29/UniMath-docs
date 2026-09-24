@@ -97,7 +97,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3891"></a><h1 class="section">1. Codes for ∑-types</h1>
+<a id="lab3892"></a><h1 class="section">1. Codes for ∑-types</h1>
 
 </div>
 <div class="code">
@@ -340,7 +340,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3892"></a><h1 class="section">2. Stability</h1>
+<a id="lab3893"></a><h1 class="section">2. Stability</h1>
 
 </div>
 <div class="code">
@@ -488,7 +488,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3893"></a><h1 class="section">3. Preservation</h1>
+<a id="lab3894"></a><h1 class="section">3. Preservation</h1>
 
 </div>
 <div class="code">
@@ -611,7 +611,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3894"></a><h1 class="section">4. Preservation by identity and composition</h1>
+<a id="lab3895"></a><h1 class="section">4. Preservation by identity and composition</h1>
 
 </div>
 <div class="code">
@@ -973,7 +973,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3895"></a><h1 class="section">5. Univalence condition</h1>
+<a id="lab3896"></a><h1 class="section">5. Univalence condition</h1>
 
 </div>
 <div class="code">

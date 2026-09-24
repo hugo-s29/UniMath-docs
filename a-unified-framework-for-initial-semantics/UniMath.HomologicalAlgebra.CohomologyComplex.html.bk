@@ -21,8 +21,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4423"></a><h1 class="section">Cohomology of complexes</h1>
-<a id="lab4424"></a><h2 class="section">Contents</h2>
+<a id="lab4424"></a><h1 class="section">Cohomology of complexes</h1>
+<a id="lab4425"></a><h2 class="section">Contents</h2>
 
 <ul class="doclist">
 <li> Cohomology functor C(A) -&gt; C(A)
@@ -124,8 +124,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4425"></a><h1 class="section">Cohomology functor</h1>
-<a id="lab4426"></a><h2 class="section">Introduction</h2>
+<a id="lab4426"></a><h1 class="section">Cohomology functor</h1>
+<a id="lab4427"></a><h2 class="section">Introduction</h2>
 
    In this section we define the cohomology functor H : C(A) -&gt; C(A). Suppose A is the category of
    abelian groups. Then H sends a complex
@@ -163,7 +163,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4427"></a><h2 class="section">Cohomology complex</h2>
+<a id="lab4428"></a><h2 class="section">Cohomology complex</h2>
 
 </div>
 <div class="code">
@@ -204,7 +204,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4428"></a><h2 class="section">Cohomology morphism</h2>
+<a id="lab4429"></a><h2 class="section">Cohomology morphism</h2>
 
 </div>
 <div class="code">
@@ -309,7 +309,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4429"></a><h2 class="section">Cohomology functor</h2>
+<a id="lab4430"></a><h2 class="section">Cohomology functor</h2>
 
 </div>
 <div class="code">
@@ -372,8 +372,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4430"></a><h1 class="section">Alternative definition of Cohomology complex</h1>
-<a id="lab4431"></a><h2 class="section">Introduction</h2>
+<a id="lab4431"></a><h1 class="section">Alternative definition of Cohomology complex</h1>
+<a id="lab4432"></a><h2 class="section">Introduction</h2>
 
    We construct an isomorphic alternative of <span class="inlinecode"><a class="idref" href="UniMath.HomologicalAlgebra.CohomologyComplex.html#CohomologyComplex"><span class="id" title="definition">CohomologyComplex</span></a></span>.
 
@@ -1025,8 +1025,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4432"></a><h1 class="section">Definition of quasi-isomorphisms</h1>
-<a id="lab4433"></a><h2 class="section">Introduction</h2>
+<a id="lab4433"></a><h1 class="section">Definition of quasi-isomorphisms</h1>
+<a id="lab4434"></a><h2 class="section">Introduction</h2>
 
    A quasi-isomorphism is a morphism of complexes which maps to an isomorphisms by the cohomology
    functor H : C(A) -&gt; C(A). See section <span class="inlinecode"><a class="idref" href="UniMath.HomologicalAlgebra.CohomologyComplex.html#def_cohomology_complex"><span class="id" title="section">def_cohomology_complex</span></a></span> for definition of this functor.
@@ -1080,8 +1080,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4434"></a><h1 class="section">Cohomology functor is an additive functor</h1>
-<a id="lab4435"></a><h2 class="section">Introduction</h2>
+<a id="lab4435"></a><h1 class="section">Cohomology functor is an additive functor</h1>
+<a id="lab4436"></a><h2 class="section">Introduction</h2>
 
    In this section we show that the cohomology functor, <span class="inlinecode"><a class="idref" href="UniMath.HomologicalAlgebra.CohomologyComplex.html#CohomologyFunctor"><span class="id" title="definition">CohomologyFunctor</span></a></span>, is an additive functor.
    This is shown in <span class="inlinecode"><a class="idref" href="UniMath.HomologicalAlgebra.CohomologyComplex.html#CohomologyFunctor_Additive"><span class="id" title="definition">CohomologyFunctor_Additive</span></a></span>. 
@@ -1166,8 +1166,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4436"></a><h1 class="section">CohomologyFunctor factors through naive homotopy category</h1>
-<a id="lab4437"></a><h2 class="section">Introduction</h2>
+<a id="lab4437"></a><h1 class="section">CohomologyFunctor factors through naive homotopy category</h1>
+<a id="lab4438"></a><h2 class="section">Introduction</h2>
 
    We show that there exists a functor K(A) -&gt; K(A) such that the following diagram is commutative
                            C(A) -&gt; C(A)
@@ -1210,7 +1210,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4438"></a><h2 class="section">Homotopic maps are mapped to equal morphisms by the cohomology functor C(A) -&gt; C(A)</h2>
+<a id="lab4439"></a><h2 class="section">Homotopic maps are mapped to equal morphisms by the cohomology functor C(A) -&gt; C(A)</h2>
 
 </div>
 <div class="code">
@@ -1323,7 +1323,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4439"></a><h2 class="section">Structure for the image of a morphism to make type cheking faster</h2>
+<a id="lab4440"></a><h2 class="section">Structure for the image of a morphism to make type cheking faster</h2>
 
 </div>
 <div class="code">
@@ -1378,7 +1378,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4440"></a><h2 class="section">Construction of the functor and commutativity</h2>
+<a id="lab4441"></a><h2 class="section">Construction of the functor and commutativity</h2>
 
 </div>
 <div class="code">
@@ -1506,7 +1506,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4441"></a><h2 class="section">Additivity of CohomologyFunctorH</h2>
+<a id="lab4442"></a><h2 class="section">Additivity of CohomologyFunctorH</h2>
 
 </div>
 <div class="code">
@@ -1597,7 +1597,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4442"></a><h2 class="section">Quasi-isomorphisms in K(A)</h2>
+<a id="lab4443"></a><h2 class="section">Quasi-isomorphisms in K(A)</h2>
 
 </div>
 <div class="code">
@@ -1638,7 +1638,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4443"></a><h1 class="section">Complex of kernels and complex of cokernels</h1>
+<a id="lab4444"></a><h1 class="section">Complex of kernels and complex of cokernels</h1>
 
    Let X be a complex. We construct a complex of kernels, which has objects ker d^{i+1}, and a
    complex of cokernels, which has objects coker d^{i-1}. The differentials of these complexes are
@@ -1669,8 +1669,8 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4444"></a><h2 class="section">Construction of kernel and cokernel complexes</h2>
-<a id="lab4445"></a><h3 class="section">Complex of kernels</h3>
+<a id="lab4445"></a><h2 class="section">Construction of kernel and cokernel complexes</h2>
+<a id="lab4446"></a><h3 class="section">Complex of kernels</h3>
 
 </div>
 <div class="code">
@@ -1721,7 +1721,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4446"></a><h3 class="section">Complex of cokernels</h3>
+<a id="lab4447"></a><h3 class="section">Complex of cokernels</h3>
 
 </div>
 <div class="code">
@@ -1799,8 +1799,8 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4447"></a><h2 class="section">Construction of h^i and isomorphisms with cohomology</h2>
-<a id="lab4448"></a><h3 class="section">Uniqueness and existence of h^i</h3>
+<a id="lab4448"></a><h2 class="section">Construction of h^i and isomorphisms with cohomology</h2>
+<a id="lab4449"></a><h3 class="section">Uniqueness and existence of h^i</h3>
 
 </div>
 <div class="code">
@@ -1958,7 +1958,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4449"></a><h3 class="section">Kernel and cohomology</h3>
+<a id="lab4450"></a><h3 class="section">Kernel and cohomology</h3>
 
 </div>
 <div class="code">
@@ -2343,7 +2343,7 @@ Homotopy is mapped to ZeroArrow
 </div>
 
 <div class="doc">
-<a id="lab4450"></a><h3 class="section">Cokernel and cohomology</h3>
+<a id="lab4451"></a><h3 class="section">Cokernel and cohomology</h3>
 
 </div>
 <div class="code">

@@ -57,7 +57,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4647"></a><h1 class="section">1. The cofree comonoid on a set</h1>
+<a id="lab4648"></a><h1 class="section">1. The cofree comonoid on a set</h1>
 
 </div>
 <div class="code">
@@ -230,7 +230,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4648"></a><h1 class="section">2. Every comonoid in `REL` gives rise to a monoid in `SET`</h1>
+<a id="lab4649"></a><h1 class="section">2. Every comonoid in `REL` gives rise to a monoid in `SET`</h1>
 
 </div>
 <div class="code">
@@ -472,7 +472,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4649"></a><h1 class="section">3. The universal property of the cofree comonoid in `REL`</h1>
+<a id="lab4650"></a><h1 class="section">3. The universal property of the cofree comonoid in `REL`</h1>
 
 </div>
 <div class="code">
@@ -757,7 +757,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4650"></a><h1 class="section">4. The relational model of linear logic</h1>
+<a id="lab4651"></a><h1 class="section">4. The relational model of linear logic</h1>
 
 </div>
 <div class="code">

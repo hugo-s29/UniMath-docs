@@ -109,7 +109,7 @@ Universe in Comprehension Categories
 </div>
 
 <div class="doc">
-<a id="lab2990"></a><h1 class="section">Comprehension category with a terminal context</h1>
+<a id="lab2991"></a><h1 class="section">Comprehension category with a terminal context</h1>
 
 </div>
 <div class="code">
@@ -150,7 +150,7 @@ Universe in Comprehension Categories
 </div>
 
 <div class="doc">
-<a id="lab2991"></a><h1 class="section">Comprehension category with a terminal context and universe</h1>
+<a id="lab2992"></a><h1 class="section">Comprehension category with a terminal context and universe</h1>
 
 </div>
 <div class="code">
@@ -502,7 +502,7 @@ Universe in Comprehension Categories
 </div>
 
 <div class="doc">
-<a id="lab2992"></a><h1 class="section">Universe Being Closed under Sigma-Types</h1>
+<a id="lab2993"></a><h1 class="section">Universe Being Closed under Sigma-Types</h1>
 
 </div>
 <div class="code">
@@ -600,7 +600,7 @@ accessors for sigma codes
 </div>
 
 <div class="doc">
-<a id="lab2993"></a><h1 class="section">Universe Being Closed under Unit Types</h1>
+<a id="lab2994"></a><h1 class="section">Universe Being Closed under Unit Types</h1>
 
 </div>
 <div class="code">
@@ -841,7 +841,7 @@ accessors for unit codes
 </div>
 
 <div class="doc">
-<a id="lab2994"></a><h1 class="section">Universe Being Closed under Pi Types</h1>
+<a id="lab2995"></a><h1 class="section">Universe Being Closed under Pi Types</h1>
 
 </div>
 <div class="code">

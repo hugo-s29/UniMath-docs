@@ -124,7 +124,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2572"></a><h1 class="section">Naturality of homset bijections</h1>
+<a id="lab2573"></a><h1 class="section">Naturality of homset bijections</h1>
 
 </div>
 <div class="code">
@@ -268,7 +268,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2573"></a><h1 class="section">homset_conj_inv and homset_conj' are weak equivalences.</h1>
+<a id="lab2574"></a><h1 class="section">homset_conj_inv and homset_conj' are weak equivalences.</h1>
 
 </div>
 <div class="code">
@@ -341,7 +341,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2574"></a><h1 class="section">The right adjoint functor of a displayed adjunction preserves cartesian morphisms.</h1>
+<a id="lab2575"></a><h1 class="section">The right adjoint functor of a displayed adjunction preserves cartesian morphisms.</h1>
 
 </div>
 <div class="code">

@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4090"></a><h1 class="section">Definition of Dedekind cuts for non-negative real numbers</h1>
+<a id="lab4091"></a><h1 class="section">Definition of Dedekind cuts for non-negative real numbers</h1>
  Catherine Lelay. Sep. 2015 
 </div>
 <div class="code">
@@ -49,7 +49,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4091"></a><h2 class="section">Definition of Dedekind cuts</h2>
+<a id="lab4092"></a><h2 class="section">Definition of Dedekind cuts</h2>
 
 </div>
 <div class="code">
@@ -183,7 +183,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4092"></a><h2 class="section"><span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span> is a effectively ordered set</h2>
+<a id="lab4093"></a><h2 class="section"><span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span> is a effectively ordered set</h2>
 
 <div class="paragraph"> </div>
 
@@ -426,7 +426,7 @@ Effectively Ordered Set
 </div>
 
 <div class="doc">
-<a id="lab4093"></a><h2 class="section">Equivalence on <span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span></h2>
+<a id="lab4094"></a><h2 class="section">Equivalence on <span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span></h2>
 
 </div>
 <div class="code">
@@ -502,7 +502,7 @@ Effectively Ordered Set
 </div>
 
 <div class="doc">
-<a id="lab4094"></a><h2 class="section">Apartness on <span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span></h2>
+<a id="lab4095"></a><h2 class="section">Apartness on <span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.NonnegativeReals.html#Dcuts"><span class="id" title="definition">Dcuts</span></a></span></h2>
 
 </div>
 <div class="code">
@@ -581,7 +581,7 @@ Effectively Ordered Set
 </div>
 
 <div class="doc">
-<a id="lab4095"></a><h3 class="section">Various theorems about order</h3>
+<a id="lab4096"></a><h3 class="section">Various theorems about order</h3>
 
 </div>
 <div class="code">
@@ -660,11 +660,11 @@ Effectively Ordered Set
 </div>
 
 <div class="doc">
-<a id="lab4096"></a><h1 class="section">Algebraic structures on Dcuts</h1>
+<a id="lab4097"></a><h1 class="section">Algebraic structures on Dcuts</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab4097"></a><h2 class="section">From non negative rational numbers to Dedekind cuts</h2>
+<a id="lab4098"></a><h2 class="section">From non negative rational numbers to Dedekind cuts</h2>
 
 </div>
 <div class="code">
@@ -846,7 +846,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4098"></a><h2 class="section">Addition in Dcuts</h2>
+<a id="lab4099"></a><h2 class="section">Addition in Dcuts</h2>
 
 </div>
 <div class="code">
@@ -1097,7 +1097,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4099"></a><h2 class="section">Multiplication in Dcuts</h2>
+<a id="lab4100"></a><h2 class="section">Multiplication in Dcuts</h2>
 
 </div>
 <div class="code">
@@ -1518,7 +1518,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4100"></a><h2 class="section">Multiplicative inverse in Dcuts</h2>
+<a id="lab4101"></a><h2 class="section">Multiplicative inverse in Dcuts</h2>
 
 </div>
 <div class="code">
@@ -1819,7 +1819,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4101"></a><h2 class="section">Algebraic properties</h2>
+<a id="lab4102"></a><h2 class="section">Algebraic properties</h2>
 
 </div>
 <div class="code">
@@ -2713,7 +2713,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4102"></a><h2 class="section">Structures</h2>
+<a id="lab4103"></a><h2 class="section">Structures</h2>
 
 </div>
 <div class="code">
@@ -2785,8 +2785,8 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4103"></a><h2 class="section">Additional useful definitions</h2>
-<a id="lab4104"></a><h3 class="section">Dcuts_minus</h3>
+<a id="lab4104"></a><h2 class="section">Additional useful definitions</h2>
+<a id="lab4105"></a><h3 class="section">Dcuts_minus</h3>
 
 </div>
 <div class="code">
@@ -3141,7 +3141,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4105"></a><h3 class="section">Dcuts_max</h3>
+<a id="lab4106"></a><h3 class="section">Dcuts_max</h3>
 
 </div>
 <div class="code">
@@ -3553,7 +3553,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4106"></a><h3 class="section">Dcuts_min</h3>
+<a id="lab4107"></a><h3 class="section">Dcuts_min</h3>
 
 </div>
 <div class="code">
@@ -3762,7 +3762,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4107"></a><h3 class="section">Dcuts_half</h3>
+<a id="lab4108"></a><h3 class="section">Dcuts_half</h3>
 
 </div>
 <div class="code">
@@ -3954,7 +3954,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4108"></a><h2 class="section">Locatedness</h2>
+<a id="lab4109"></a><h2 class="section">Locatedness</h2>
 
 </div>
 <div class="code">
@@ -3991,7 +3991,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4109"></a><h2 class="section">Limits of Cauchy sequences</h2>
+<a id="lab4110"></a><h2 class="section">Limits of Cauchy sequences</h2>
 
 </div>
 <div class="code">
@@ -4415,7 +4415,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4110"></a><h2 class="section">Dedekind Completeness</h2>
+<a id="lab4111"></a><h2 class="section">Dedekind Completeness</h2>
 
 </div>
 <div class="code">
@@ -4804,7 +4804,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4111"></a><h1 class="section">Definition of non-negative real numbers</h1>
+<a id="lab4112"></a><h1 class="section">Definition of non-negative real numbers</h1>
 
 </div>
 <div class="code">
@@ -4844,7 +4844,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4112"></a><h2 class="section">Relations</h2>
+<a id="lab4113"></a><h2 class="section">Relations</h2>
 
 </div>
 <div class="code">
@@ -4867,7 +4867,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4113"></a><h2 class="section">Constants and Functions</h2>
+<a id="lab4114"></a><h2 class="section">Constants and Functions</h2>
 
 </div>
 <div class="code">
@@ -4902,7 +4902,7 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4114"></a><h2 class="section">Special functions</h2>
+<a id="lab4115"></a><h2 class="section">Special functions</h2>
 
 </div>
 <div class="code">
@@ -4934,11 +4934,11 @@ Various usefull theorems
 </div>
 
 <div class="doc">
-<a id="lab4115"></a><h2 class="section">Theorems</h2>
+<a id="lab4116"></a><h2 class="section">Theorems</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4116"></a><h2 class="section">Compatibility with NonnegativeRationals</h2>
+<a id="lab4117"></a><h2 class="section">Compatibility with NonnegativeRationals</h2>
 
 </div>
 <div class="code">
@@ -5733,7 +5733,7 @@ half of a non-negative real numbers
 </div>
 
 <div class="doc">
-<a id="lab4117"></a><h2 class="section">NonnegativeRationals is dense in NonnegativeReals</h2>
+<a id="lab4118"></a><h2 class="section">NonnegativeRationals is dense in NonnegativeReals</h2>
 
 </div>
 <div class="code">
@@ -5759,7 +5759,7 @@ half of a non-negative real numbers
 </div>
 
 <div class="doc">
-<a id="lab4118"></a><h2 class="section">Archimedean property</h2>
+<a id="lab4119"></a><h2 class="section">Archimedean property</h2>
 
 </div>
 <div class="code">
@@ -5814,7 +5814,7 @@ half of a non-negative real numbers
 </div>
 
 <div class="doc">
-<a id="lab4119"></a><h2 class="section">Completeness</h2>
+<a id="lab4120"></a><h2 class="section">Completeness</h2>
 
 </div>
 <div class="code">

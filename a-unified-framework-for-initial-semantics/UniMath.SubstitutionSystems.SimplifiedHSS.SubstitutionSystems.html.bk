@@ -104,7 +104,7 @@ basically, the changes start with <span class="inlinecode"><a class="idref" href
 </div>
 
 <div class="doc">
-<a id="lab4157"></a><h2 class="section">Some variables and assumptions</h2>
+<a id="lab4158"></a><h2 class="section">Some variables and assumptions</h2>
 
 </div>
 <div class="code">
@@ -751,7 +751,7 @@ the operations of an hss can be obtained through this formula from
 </div>
 
 <div class="doc">
-<a id="lab4158"></a><h2 class="section">Morphisms of heterogeneous substitution systems</h2>
+<a id="lab4159"></a><h2 class="section">Morphisms of heterogeneous substitution systems</h2>
 
 <div class="paragraph"> </div>
 
@@ -907,7 +907,7 @@ A morphism of hss is a pointed morphism that is compatible with both
 </div>
 
 <div class="doc">
-<a id="lab4159"></a><h4 class="section">Equality of morphisms of hss</h4>
+<a id="lab4160"></a><h4 class="section">Equality of morphisms of hss</h4>
 
 </div>
 <div class="code">
@@ -961,11 +961,11 @@ Show that equality of hssMor is equality of underlying nat. transformations
 </div>
 
 <div class="doc">
-<a id="lab4160"></a><h2 class="section">The precategory of hss</h2>
+<a id="lab4161"></a><h2 class="section">The precategory of hss</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4161"></a><h3 class="section">Identity morphism of hss</h3>
+<a id="lab4162"></a><h3 class="section">Identity morphism of hss</h3>
 
 </div>
 <div class="code">
@@ -995,7 +995,7 @@ Show that equality of hssMor is equality of underlying nat. transformations
 </div>
 
 <div class="doc">
-<a id="lab4162"></a><h3 class="section">Composition of morphisms of hss</h3>
+<a id="lab4163"></a><h3 class="section">Composition of morphisms of hss</h3>
 
 </div>
 <div class="code">

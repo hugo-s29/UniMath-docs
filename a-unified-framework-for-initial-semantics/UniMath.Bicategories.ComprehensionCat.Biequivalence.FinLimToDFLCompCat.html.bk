@@ -64,7 +64,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3678"></a><h1 class="section">1. The action on objects</h1>
+<a id="lab3679"></a><h1 class="section">1. The action on objects</h1>
 
 </div>
 <div class="code">
@@ -167,7 +167,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3679"></a><h1 class="section">2. The action on morphisms</h1>
+<a id="lab3680"></a><h1 class="section">2. The action on morphisms</h1>
 
 </div>
 <div class="code">
@@ -270,7 +270,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3680"></a><h1 class="section">3. The action on 2-cells</h1>
+<a id="lab3681"></a><h1 class="section">3. The action on 2-cells</h1>
 
 </div>
 <div class="code">
@@ -313,7 +313,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3681"></a><h1 class="section">4. The identitor and compositor</h1>
+<a id="lab3682"></a><h1 class="section">4. The identitor and compositor</h1>
 
 </div>
 <div class="code">
@@ -445,7 +445,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3682"></a><h1 class="section">5. The data</h1>
+<a id="lab3683"></a><h1 class="section">5. The data</h1>
 
 </div>
 <div class="code">
@@ -466,7 +466,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3683"></a><h1 class="section">6. The laws</h1>
+<a id="lab3684"></a><h1 class="section">6. The laws</h1>
 
 </div>
 <div class="code">
@@ -573,7 +573,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3684"></a><h1 class="section">7. The pseudofunctor from categories with finite limits to DFL comprehension categories</h1>
+<a id="lab3685"></a><h1 class="section">7. The pseudofunctor from categories with finite limits to DFL comprehension categories</h1>
 
 </div>
 <div class="code">

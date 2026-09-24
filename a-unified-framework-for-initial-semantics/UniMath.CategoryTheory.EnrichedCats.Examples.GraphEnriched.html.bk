@@ -60,7 +60,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2757"></a><h1 class="section">1. The graph of an enriched profunctor</h1>
+<a id="lab2758"></a><h1 class="section">1. The graph of an enriched profunctor</h1>
 
 </div>
 <div class="code">
@@ -182,7 +182,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2758"></a><h1 class="section">2. Accessors and builders for objects and morphisms</h1>
+<a id="lab2759"></a><h1 class="section">2. Accessors and builders for objects and morphisms</h1>
 
 </div>
 <div class="code">
@@ -294,7 +294,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2759"></a><h1 class="section">3. The enriched hom object</h1>
+<a id="lab2760"></a><h1 class="section">3. The enriched hom object</h1>
 
 </div>
 <div class="code">
@@ -493,7 +493,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2760"></a><h1 class="section">4. Operations for the enrichment</h1>
+<a id="lab2761"></a><h1 class="section">4. Operations for the enrichment</h1>
 
 </div>
 <div class="code">
@@ -985,7 +985,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2761"></a><h1 class="section">5. Laws for the enrichment</h1>
+<a id="lab2762"></a><h1 class="section">5. Laws for the enrichment</h1>
 
 </div>
 <div class="code">
@@ -1159,7 +1159,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2762"></a><h1 class="section">6. The enrichment for the graph</h1>
+<a id="lab2763"></a><h1 class="section">6. The enrichment for the graph</h1>
 
 </div>
 <div class="code">
@@ -1175,7 +1175,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2763"></a><h1 class="section">7. The first projection</h1>
+<a id="lab2764"></a><h1 class="section">7. The first projection</h1>
 
 </div>
 <div class="code">
@@ -1209,7 +1209,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2764"></a><h1 class="section">8. The second projection</h1>
+<a id="lab2765"></a><h1 class="section">8. The second projection</h1>
 
 </div>
 <div class="code">
@@ -1243,7 +1243,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2765"></a><h1 class="section">9. The square of the graph</h1>
+<a id="lab2766"></a><h1 class="section">9. The square of the graph</h1>
 
 </div>
 <div class="code">

@@ -113,7 +113,7 @@ the file is identical to the homonymous file in the parent directory, except for
 </div>
 
 <div class="doc">
-<a id="lab4217"></a><h1 class="section">Definition of binding signatures</h1>
+<a id="lab4218"></a><h1 class="section">Definition of binding signatures</h1>
 
 </div>
 <div class="code">
@@ -162,7 +162,7 @@ Sum of binding signatures
 </div>
 
 <div class="doc">
-<a id="lab4218"></a><h1 class="section">Translation from a binding signature to a monad</h1>
+<a id="lab4219"></a><h1 class="section">Translation from a binding signature to a monad</h1>
 
 <pre>
           S : BindingSig
@@ -275,7 +275,7 @@ The H assumption follows directly if <span class="inlinecode"><a class="idref" h
 </div>
 
 <div class="doc">
-<a id="lab4219"></a><h2 class="section">Binding signature to a signature with strength</h2>
+<a id="lab4220"></a><h2 class="section">Binding signature to a signature with strength</h2>
 
 </div>
 <div class="code">
@@ -307,7 +307,7 @@ The H assumption follows directly if <span class="inlinecode"><a class="idref" h
 </div>
 
 <div class="doc">
-<a id="lab4220"></a><h2 class="section">Construction of initial algebra for a signature with strength</h2>
+<a id="lab4221"></a><h2 class="section">Construction of initial algebra for a signature with strength</h2>
 
 </div>
 <div class="code">
@@ -326,7 +326,7 @@ The H assumption follows directly if <span class="inlinecode"><a class="idref" h
 </div>
 
 <div class="doc">
-<a id="lab4221"></a><h2 class="section">Construction of datatype specified by a binding signature</h2>
+<a id="lab4222"></a><h2 class="section">Construction of datatype specified by a binding signature</h2>
 
 </div>
 <div class="code">
@@ -356,7 +356,7 @@ The H assumption follows directly if <span class="inlinecode"><a class="idref" h
 </div>
 
 <div class="doc">
-<a id="lab4222"></a><h2 class="section">Signature with strength and initial algebra to a HSS</h2>
+<a id="lab4223"></a><h2 class="section">Signature with strength and initial algebra to a HSS</h2>
 
 </div>
 <div class="code">
@@ -393,7 +393,7 @@ The above HSS is initial
 </div>
 
 <div class="doc">
-<a id="lab4223"></a><h2 class="section">Function from binding signatures to monads</h2>
+<a id="lab4224"></a><h2 class="section">Function from binding signatures to monads</h2>
 
 </div>
 <div class="code">
@@ -417,7 +417,7 @@ The above HSS is initial
 </div>
 
 <div class="doc">
-<a id="lab4224"></a><h1 class="section">Specialized versions of some of the above functions for HSET</h1>
+<a id="lab4225"></a><h1 class="section">Specialized versions of some of the above functions for HSET</h1>
 
 </div>
 <div class="code">
@@ -427,7 +427,7 @@ The above HSS is initial
 </div>
 
 <div class="doc">
-<a id="lab4225"></a><h2 class="section">Binding signature to signature with strength for HSET</h2>
+<a id="lab4226"></a><h2 class="section">Binding signature to signature with strength for HSET</h2>
 
 </div>
 <div class="code">
@@ -457,7 +457,7 @@ The above HSS is initial
 </div>
 
 <div class="doc">
-<a id="lab4226"></a><h2 class="section">Construction of initial algebra for a signature with strength for HSET</h2>
+<a id="lab4227"></a><h2 class="section">Construction of initial algebra for a signature with strength for HSET</h2>
 
 </div>
 <div class="code">
@@ -473,7 +473,7 @@ The above HSS is initial
 </div>
 
 <div class="doc">
-<a id="lab4227"></a><h2 class="section">Binding signature to a monad for HSET</h2>
+<a id="lab4228"></a><h2 class="section">Binding signature to a monad for HSET</h2>
 
 </div>
 <div class="code">

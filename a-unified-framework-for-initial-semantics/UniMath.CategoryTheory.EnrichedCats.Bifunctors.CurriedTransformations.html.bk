@@ -43,7 +43,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2671"></a><h1 class="section">1. Curried transformations between bifunctors</h1>
+<a id="lab2672"></a><h1 class="section">1. Curried transformations between bifunctors</h1>
 
 </div>
 <div class="code">
@@ -179,7 +179,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2672"></a><h1 class="section">2. Equivalence with enriched natural transformations</h1>
+<a id="lab2673"></a><h1 class="section">2. Equivalence with enriched natural transformations</h1>
 
 </div>
 <div class="code">

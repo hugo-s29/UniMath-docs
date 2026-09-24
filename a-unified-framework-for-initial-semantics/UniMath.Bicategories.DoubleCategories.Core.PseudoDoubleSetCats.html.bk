@@ -51,7 +51,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3245"></a><h1 class="section">1. Pseudo double setcategories</h1>
+<a id="lab3246"></a><h1 class="section">1. Pseudo double setcategories</h1>
 
 </div>
 <div class="code">
@@ -63,7 +63,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3246"></a><h1 class="section">2. Accessors for pseudo double setcategories</h1>
+<a id="lab3247"></a><h1 class="section">2. Accessors for pseudo double setcategories</h1>
 
 </div>
 <div class="code">
@@ -101,7 +101,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3247"></a><h1 class="section">3. Builder for pseudo double setcategories</h1>
+<a id="lab3248"></a><h1 class="section">3. Builder for pseudo double setcategories</h1>
 
 </div>
 <div class="code">

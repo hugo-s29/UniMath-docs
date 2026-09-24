@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3996"></a><h1 class="section">Bicategory of Display Map Categories</h1>
+<a id="lab3997"></a><h1 class="section">Bicategory of Display Map Categories</h1>
 
     Contents:
 <ul class="doclist">
@@ -88,7 +88,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3997"></a><h2 class="section">Displayed Bicategory of Display Map Categories</h2>
+<a id="lab3998"></a><h2 class="section">Displayed Bicategory of Display Map Categories</h2>
 
 </div>
 <div class="code">
@@ -162,7 +162,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3998"></a><h3 class="section">Coercions</h3>
+<a id="lab3999"></a><h3 class="section">Coercions</h3>
 
 </div>
 <div class="code">
@@ -174,7 +174,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3999"></a><h3 class="section">Univalence</h3>
+<a id="lab4000"></a><h3 class="section">Univalence</h3>
 
 </div>
 <div class="code">
@@ -301,7 +301,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4000"></a><h2 class="section">Displayed Bicategory of Display Map Categories with Terminal object in base</h2>
+<a id="lab4001"></a><h2 class="section">Displayed Bicategory of Display Map Categories with Terminal object in base</h2>
 
 </div>
 <div class="code">
@@ -320,7 +320,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4001"></a><h3 class="section">Coercions</h3>
+<a id="lab4002"></a><h3 class="section">Coercions</h3>
 
 </div>
 <div class="code">
@@ -354,7 +354,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4002"></a><h3 class="section">Univalence of <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.DisplayMapCat.DispBicatOfDisplayMapCat.html#disp_bicat_terminal_display_map_cat"><span class="id" title="definition">disp_bicat_terminal_display_map_cat</span></a></span>.</h3>
+<a id="lab4003"></a><h3 class="section">Univalence of <span class="inlinecode"><a class="idref" href="UniMath.Bicategories.DisplayMapCat.DispBicatOfDisplayMapCat.html#disp_bicat_terminal_display_map_cat"><span class="id" title="definition">disp_bicat_terminal_display_map_cat</span></a></span>.</h3>
 
 </div>
 <div class="code">
@@ -420,11 +420,11 @@
 </div>
 
 <div class="doc">
-<a id="lab4003"></a><h2 class="section">Pseudofunctor from the bicategory of display map categories with terminal objects into the bicategory of full comprehension categories.</h2>
+<a id="lab4004"></a><h2 class="section">Pseudofunctor from the bicategory of display map categories with terminal objects into the bicategory of full comprehension categories.</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4004"></a><h3 class="section">Pseudofunctor Data</h3>
+<a id="lab4005"></a><h3 class="section">Pseudofunctor Data</h3>
 
 </div>
 <div class="code">
@@ -526,7 +526,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4005"></a><h3 class="section">Pseudofunctor Laws</h3>
+<a id="lab4006"></a><h3 class="section">Pseudofunctor Laws</h3>
 
 </div>
 <div class="code">

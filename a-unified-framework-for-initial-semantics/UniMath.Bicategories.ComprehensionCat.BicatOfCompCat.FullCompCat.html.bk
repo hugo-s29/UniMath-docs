@@ -62,7 +62,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3605"></a><h1 class="section">1. The bicategory of full comprehension categories</h1>
+<a id="lab3606"></a><h1 class="section">1. The bicategory of full comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -111,7 +111,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3606"></a><h1 class="section">2. The univalence of the bicategory of full comprehension categories</h1>
+<a id="lab3607"></a><h1 class="section">2. The univalence of the bicategory of full comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -168,7 +168,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3607"></a><h1 class="section">3. Builders and accessors</h1>
+<a id="lab3608"></a><h1 class="section">3. Builders and accessors</h1>
 
 </div>
 <div class="code">
@@ -415,7 +415,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3608"></a><h1 class="section">4. Adjoint equivalences</h1>
+<a id="lab3609"></a><h1 class="section">4. Adjoint equivalences</h1>
 
 </div>
 <div class="code">

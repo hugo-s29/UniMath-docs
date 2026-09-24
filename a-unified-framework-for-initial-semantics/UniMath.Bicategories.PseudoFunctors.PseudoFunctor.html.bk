@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3100"></a><h1 class="section">Pseudofunctors on bicategories</h1>
+<a id="lab3101"></a><h1 class="section">Pseudofunctors on bicategories</h1>
 
     Benedikt Ahrens, Marco Maggesi
     February 2018
@@ -33,7 +33,7 @@
  ********************************************************************************* 
 <div class="paragraph"> </div>
 
-<a id="lab3101"></a><h1 class="section">Pseudo functors.</h1>
+<a id="lab3102"></a><h1 class="section">Pseudo functors.</h1>
 
 </div>
 <div class="code">
@@ -71,7 +71,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3102"></a><h2 class="section">Pseudo-functors</h2>
+<a id="lab3103"></a><h2 class="section">Pseudo-functors</h2>
 
 </div>
 <div class="code">

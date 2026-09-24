@@ -43,7 +43,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3622"></a><h1 class="section">1. The displayed bicategory of product types</h1>
+<a id="lab3623"></a><h1 class="section">1. The displayed bicategory of product types</h1>
 
 </div>
 <div class="code">
@@ -78,7 +78,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3623"></a><h1 class="section">2. The univalence of this displayed bicategory</h1>
+<a id="lab3624"></a><h1 class="section">2. The univalence of this displayed bicategory</h1>
 
 </div>
 <div class="code">
@@ -132,7 +132,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3624"></a><h1 class="section">3. Product types for comprehension categories</h1>
+<a id="lab3625"></a><h1 class="section">3. Product types for comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -188,7 +188,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3625"></a><h1 class="section">4. Product types for full comprehension categories</h1>
+<a id="lab3626"></a><h1 class="section">4. Product types for full comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -244,7 +244,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3626"></a><h1 class="section">5. Adjoint equivalences</h1>
+<a id="lab3627"></a><h1 class="section">5. Adjoint equivalences</h1>
 
 </div>
 <div class="code">

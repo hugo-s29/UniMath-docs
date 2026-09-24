@@ -39,7 +39,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2620"></a><h1 class="section">1. Definition of lax extensions</h1>
+<a id="lab2621"></a><h1 class="section">1. Definition of lax extensions</h1>
 
 </div>
 <div class="code">
@@ -161,7 +161,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2621"></a><h1 class="section">2. Builder and equality</h1>
+<a id="lab2622"></a><h1 class="section">2. Builder and equality</h1>
 
 </div>
 <div class="code">
@@ -198,7 +198,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2622"></a><h1 class="section">3. Functors with a lax extension</h1>
+<a id="lab2623"></a><h1 class="section">3. Functors with a lax extension</h1>
 
 </div>
 <div class="code">
@@ -229,7 +229,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2623"></a><h1 class="section">4. Properties of lax extensions</h1>
+<a id="lab2624"></a><h1 class="section">4. Properties of lax extensions</h1>
 
 </div>
 <div class="code">

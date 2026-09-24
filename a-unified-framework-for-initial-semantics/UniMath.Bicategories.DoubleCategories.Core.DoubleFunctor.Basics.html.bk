@@ -35,7 +35,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3187"></a><h1 class="section">1. Preservation of the identity</h1>
+<a id="lab3188"></a><h1 class="section">1. Preservation of the identity</h1>
 
 </div>
 <div class="code">
@@ -157,7 +157,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3188"></a><h1 class="section">2. Preservation of composition</h1>
+<a id="lab3189"></a><h1 class="section">2. Preservation of composition</h1>
 
 </div>
 <div class="code">
@@ -372,7 +372,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3189"></a><h1 class="section">3. Preservation of the unitors and associators</h1>
+<a id="lab3190"></a><h1 class="section">3. Preservation of the unitors and associators</h1>
 
 </div>
 <div class="code">
@@ -525,7 +525,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3190"></a><h1 class="section">4. The identity double functor</h1>
+<a id="lab3191"></a><h1 class="section">4. The identity double functor</h1>
 
 </div>
 <div class="code">

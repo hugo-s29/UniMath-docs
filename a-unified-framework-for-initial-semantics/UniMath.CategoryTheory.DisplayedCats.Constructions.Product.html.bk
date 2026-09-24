@@ -38,11 +38,11 @@
 </div>
 
 <div class="doc">
-<a id="lab2420"></a><h1 class="section">1. The product displayed category</h1>
+<a id="lab2421"></a><h1 class="section">1. The product displayed category</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab2421"></a><h1 class="section">Products of displayed (pre)categories</h1>
+<a id="lab2422"></a><h1 class="section">Products of displayed (pre)categories</h1>
 
 
 <div class="paragraph"> </div>
@@ -116,7 +116,7 @@ An alternative would be to define the direct product as the <span class="inlinec
 </div>
 
 <div class="doc">
-<a id="lab2422"></a><h1 class="section">2. A characterization of displayed isomorphism</h1>
+<a id="lab2423"></a><h1 class="section">2. A characterization of displayed isomorphism</h1>
  TODO: generalize over an aritrary base isomorphism 
 </div>
 <div class="code">
@@ -217,7 +217,7 @@ An alternative would be to define the direct product as the <span class="inlinec
 </div>
 
 <div class="doc">
-<a id="lab2423"></a><h1 class="section">3. Univalence</h1>
+<a id="lab2424"></a><h1 class="section">3. Univalence</h1>
 
 </div>
 <div class="code">
@@ -266,7 +266,7 @@ An alternative would be to define the direct product as the <span class="inlinec
 </div>
 
 <div class="doc">
-<a id="lab2424"></a><h1 class="section">4. The projecton displayed functors</h1>
+<a id="lab2425"></a><h1 class="section">4. The projecton displayed functors</h1>
 
 </div>
 <div class="code">

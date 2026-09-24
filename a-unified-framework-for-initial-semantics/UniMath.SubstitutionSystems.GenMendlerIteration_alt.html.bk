@@ -98,7 +98,7 @@ Based on a note by Ralph Matthes.
 Goal: derive Generalized Iteration in Mendler-style and a fusion law 
 <div class="paragraph"> </div>
 
-<a id="lab4180"></a><h1 class="section">Generalized Iteration in Mendler-style</h1>
+<a id="lab4181"></a><h1 class="section">Generalized Iteration in Mendler-style</h1>
 
 </div>
 <div class="code">
@@ -303,7 +303,7 @@ Goal: derive Generalized Iteration in Mendler-style and a fusion law
 </div>
 
 <div class="doc">
-<a id="lab4181"></a><h1 class="section">Specialized Mendler Iteration</h1>
+<a id="lab4182"></a><h1 class="section">Specialized Mendler Iteration</h1>
 
 </div>
 <div class="code">
@@ -346,7 +346,7 @@ Goal: derive Generalized Iteration in Mendler-style and a fusion law
 </div>
 
 <div class="doc">
-<a id="lab4182"></a><h1 class="section">Fusion law for Generalized Iteration in Mendler-style</h1>
+<a id="lab4183"></a><h1 class="section">Fusion law for Generalized Iteration in Mendler-style</h1>
 
 </div>
 <div class="code">

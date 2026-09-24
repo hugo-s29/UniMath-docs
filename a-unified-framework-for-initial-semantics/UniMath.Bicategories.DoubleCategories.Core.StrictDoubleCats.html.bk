@@ -55,7 +55,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3230"></a><h1 class="section">1. Strict double categories</h1>
+<a id="lab3231"></a><h1 class="section">1. Strict double categories</h1>
 
 </div>
 <div class="code">
@@ -67,11 +67,11 @@
 </div>
 
 <div class="doc">
-<a id="lab3231"></a><h1 class="section">2. Accessors for double categories</h1>
+<a id="lab3232"></a><h1 class="section">2. Accessors for double categories</h1>
 
 <div class="paragraph"> </div>
 
-<a id="lab3232"></a><h2 class="section">2.1. The vertical category</h2>
+<a id="lab3233"></a><h2 class="section">2.1. The vertical category</h2>
 
 </div>
 <div class="code">
@@ -186,7 +186,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3233"></a><h2 class="section">2.2. Horizontal morphisms</h2>
+<a id="lab3234"></a><h2 class="section">2.2. Horizontal morphisms</h2>
 
 </div>
 <div class="code">
@@ -242,7 +242,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3234"></a><h2 class="section">2.3. Squares</h2>
+<a id="lab3235"></a><h2 class="section">2.3. Squares</h2>
 
 </div>
 <div class="code">
@@ -299,7 +299,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3235"></a><h2 class="section">2.4. Transporting squares</h2>
+<a id="lab3236"></a><h2 class="section">2.4. Transporting squares</h2>
 
 </div>
 <div class="code">
@@ -408,7 +408,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3236"></a><h2 class="section">2.5. Laws for squares</h2>
+<a id="lab3237"></a><h2 class="section">2.5. Laws for squares</h2>
 
 </div>
 <div class="code">
@@ -470,7 +470,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3237"></a><h2 class="section">2.6. Functoriality of horizontal identities</h2>
+<a id="lab3238"></a><h2 class="section">2.6. Functoriality of horizontal identities</h2>
 
 </div>
 <div class="code">
@@ -507,7 +507,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3238"></a><h2 class="section">2.7. Functoriality of horizontal composition</h2>
+<a id="lab3239"></a><h2 class="section">2.7. Functoriality of horizontal composition</h2>
 
 </div>
 <div class="code">
@@ -564,7 +564,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3239"></a><h2 class="section">2.8. Laws for horizontal composition</h2>
+<a id="lab3240"></a><h2 class="section">2.8. Laws for horizontal composition</h2>
 
 </div>
 <div class="code">
@@ -676,7 +676,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3240"></a><h2 class="section">2.9. Transport laws</h2>
+<a id="lab3241"></a><h2 class="section">2.9. Transport laws</h2>
 
 </div>
 <div class="code">
@@ -967,7 +967,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3241"></a><h1 class="section">3. Builder for strict double categories</h1>
+<a id="lab3242"></a><h1 class="section">3. Builder for strict double categories</h1>
 
 </div>
 <div class="code">
@@ -990,7 +990,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3242"></a><h1 class="section">4. Strict functors for strict double categories</h1>
+<a id="lab3243"></a><h1 class="section">4. Strict functors for strict double categories</h1>
 
 </div>
 <div class="code">
@@ -1017,7 +1017,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3243"></a><h1 class="section">5. Accessors for strict double functors</h1>
+<a id="lab3244"></a><h1 class="section">5. Accessors for strict double functors</h1>
 
 </div>
 <div class="code">
@@ -1208,7 +1208,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3244"></a><h1 class="section">6. Builder for strict double functors</h1>
+<a id="lab3245"></a><h1 class="section">6. Builder for strict double functors</h1>
 
 </div>
 <div class="code">

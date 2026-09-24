@@ -21,8 +21,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4406"></a><h1 class="section">Mapping cylinder in C(A)</h1>
-<a id="lab4407"></a><h2 class="section">Introduction</h2>
+<a id="lab4407"></a><h1 class="section">Mapping cylinder in C(A)</h1>
+<a id="lab4408"></a><h2 class="section">Introduction</h2>
 
 <ul class="doclist">
 <li> Mapping cylinder
@@ -99,8 +99,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4408"></a><h1 class="section">Mapping cylinder</h1>
-<a id="lab4409"></a><h2 class="section">Introduction</h2>
+<a id="lab4409"></a><h1 class="section">Mapping cylinder</h1>
+<a id="lab4410"></a><h2 class="section">Introduction</h2>
 
 In this section we construct the mapping cylinder, which is a complex, of a morphism f : C_1 -&gt; C_2
 of complexes. We denote mapping cylinder of f by Cyl(f). The objects of mapping cylinder are given
@@ -361,8 +361,8 @@ p_2 · d^i_C(f) · i_2
 </div>
 
 <div class="doc">
-<a id="lab4410"></a><h1 class="section">Let f : X -&gt; Y, then Y is isomorphic to Cyl(f) in K(A)</h1>
-<a id="lab4411"></a><h2 class="section">Introduction</h2>
+<a id="lab4411"></a><h1 class="section">Let f : X -&gt; Y, then Y is isomorphic to Cyl(f) in K(A)</h1>
+<a id="lab4412"></a><h2 class="section">Introduction</h2>
 
 We show that in K(A) Y and Cyl(f) are isomorphic. The isomorphism is given by the morphisms
 α := i_2 · i_2 and β := p_1 · f + p_2 · p_2. We have α · β = id in C(A), but

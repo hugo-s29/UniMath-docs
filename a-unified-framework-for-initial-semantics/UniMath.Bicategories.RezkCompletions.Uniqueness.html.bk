@@ -38,7 +38,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4013"></a><h1 class="section">1. An equality lemma for the type `functor_from A`</h1>
+<a id="lab4014"></a><h1 class="section">1. An equality lemma for the type `functor_from A`</h1>
 
 </div>
 <div class="code">
@@ -65,7 +65,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4014"></a><h1 class="section">2. Two initial functors from a type are equal</h1>
+<a id="lab4015"></a><h1 class="section">2. Two initial functors from a type are equal</h1>
 
 </div>
 <div class="code">
@@ -146,7 +146,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4015"></a><h1 class="section">3. Two Rezk completions are equal</h1>
+<a id="lab4016"></a><h1 class="section">3. Two Rezk completions are equal</h1>
 
 </div>
 <div class="code">

@@ -130,7 +130,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3750"></a><h1 class="section">1. The map assigning types to terms of the universe</h1>
+<a id="lab3751"></a><h1 class="section">1. The map assigning types to terms of the universe</h1>
 
 </div>
 <div class="code">
@@ -346,7 +346,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3751"></a><h1 class="section">2. Stability</h1>
+<a id="lab3752"></a><h1 class="section">2. Stability</h1>
 
 </div>
 <div class="code">
@@ -512,7 +512,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3752"></a><h1 class="section">3. Coherence</h1>
+<a id="lab3753"></a><h1 class="section">3. Coherence</h1>
 
 </div>
 <div class="code">
@@ -909,7 +909,7 @@ This lemma calculates the necessary transport for an equality principle
 </div>
 
 <div class="doc">
-<a id="lab3753"></a><h1 class="section">4. Preservation by functors</h1>
+<a id="lab3754"></a><h1 class="section">4. Preservation by functors</h1>
 
 </div>
 <div class="code">
@@ -1090,7 +1090,7 @@ This lemma calculates the necessary transport for an equality principle
 </div>
 
 <div class="doc">
-<a id="lab3754"></a><h1 class="section">5. Identity and compositions preserve universes</h1>
+<a id="lab3755"></a><h1 class="section">5. Identity and compositions preserve universes</h1>
 
 </div>
 <div class="code">
@@ -1191,7 +1191,7 @@ This lemma calculates the necessary transport for an equality principle
 </div>
 
 <div class="doc">
-<a id="lab3755"></a><h1 class="section">6. Functors that preserve stable universes</h1>
+<a id="lab3756"></a><h1 class="section">6. Functors that preserve stable universes</h1>
 
 </div>
 <div class="code">
@@ -1334,7 +1334,7 @@ This lemma calculates the necessary transport for an equality principle
 </div>
 
 <div class="doc">
-<a id="lab3756"></a><h1 class="section">7. The identity and composition</h1>
+<a id="lab3757"></a><h1 class="section">7. The identity and composition</h1>
 
 </div>
 <div class="code">
@@ -1496,7 +1496,7 @@ This lemma calculates the necessary transport for an equality principle
 </div>
 
 <div class="doc">
-<a id="lab3757"></a><h1 class="section">8. Preservation by natural transformations</h1>
+<a id="lab3758"></a><h1 class="section">8. Preservation by natural transformations</h1>
 
 </div>
 <div class="code">

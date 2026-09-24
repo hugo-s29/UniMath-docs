@@ -52,7 +52,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3393"></a><h1 class="section">1. Basic definitions</h1>
+<a id="lab3394"></a><h1 class="section">1. Basic definitions</h1>
 
 </div>
 <div class="code">
@@ -170,7 +170,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3394"></a><h1 class="section">2. The 2-sided displayed category</h1>
+<a id="lab3395"></a><h1 class="section">2. The 2-sided displayed category</h1>
 
 </div>
 <div class="code">
@@ -290,7 +290,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3395"></a><h1 class="section">3. Builders and accessors for horizontal morphisms</h1>
+<a id="lab3396"></a><h1 class="section">3. Builders and accessors for horizontal morphisms</h1>
 
 </div>
 <div class="code">
@@ -320,7 +320,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3396"></a><h1 class="section">4. Builders and accessors for squares</h1>
+<a id="lab3397"></a><h1 class="section">4. Builders and accessors for squares</h1>
 
 </div>
 <div class="code">
@@ -470,7 +470,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3397"></a><h1 class="section">5. Horizontal identities</h1>
+<a id="lab3398"></a><h1 class="section">5. Horizontal identities</h1>
 
 </div>
 <div class="code">
@@ -597,7 +597,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3398"></a><h1 class="section">6. Horizontal composition</h1>
+<a id="lab3399"></a><h1 class="section">6. Horizontal composition</h1>
 
 </div>
 <div class="code">
@@ -759,7 +759,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3399"></a><h1 class="section">7. Globular isomorphism squares</h1>
+<a id="lab3400"></a><h1 class="section">7. Globular isomorphism squares</h1>
 
 </div>
 <div class="code">
@@ -929,7 +929,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3400"></a><h1 class="section">8. The left unitor</h1>
+<a id="lab3401"></a><h1 class="section">8. The left unitor</h1>
 
 </div>
 <div class="code">
@@ -1058,7 +1058,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3401"></a><h1 class="section">9. The right unitor</h1>
+<a id="lab3402"></a><h1 class="section">9. The right unitor</h1>
 
 </div>
 <div class="code">
@@ -1187,7 +1187,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3402"></a><h1 class="section">10. The associator</h1>
+<a id="lab3403"></a><h1 class="section">10. The associator</h1>
 
 </div>
 <div class="code">
@@ -1358,7 +1358,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3403"></a><h1 class="section">11. The coherences</h1>
+<a id="lab3404"></a><h1 class="section">11. The coherences</h1>
 
 </div>
 <div class="code">
@@ -1407,7 +1407,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3404"></a><h1 class="section">12. The double category of coalgebras of a lax double functor</h1>
+<a id="lab3405"></a><h1 class="section">12. The double category of coalgebras of a lax double functor</h1>
 
 </div>
 <div class="code">
@@ -1430,7 +1430,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3405"></a><h1 class="section">13. The univalence of the double category of coalgebra</h1>
+<a id="lab3406"></a><h1 class="section">13. The univalence of the double category of coalgebra</h1>
 
 </div>
 <div class="code">
@@ -1599,7 +1599,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3406"></a><h1 class="section">14. The univalent double category of coalgebras of a lax double functor</h1>
+<a id="lab3407"></a><h1 class="section">14. The univalent double category of coalgebras of a lax double functor</h1>
 
 </div>
 <div class="code">
@@ -1617,7 +1617,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3407"></a><h1 class="section">15. Flatness of the double category of coalgebras</h1>
+<a id="lab3408"></a><h1 class="section">15. Flatness of the double category of coalgebras</h1>
 
 </div>
 <div class="code">

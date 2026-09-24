@@ -21,8 +21,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4291"></a><h1 class="section">Triangulated categories</h1>
-<a id="lab4292"></a><h2 class="section">Contents</h2>
+<a id="lab4292"></a><h1 class="section">Triangulated categories</h1>
+<a id="lab4293"></a><h2 class="section">Contents</h2>
 
 <ul class="doclist">
 <li> Triangles, rotations of triangles, and cones
@@ -117,8 +117,8 @@
 </div>
 
 <div class="doc">
-<a id="lab4293"></a><h1 class="section">Triangulated categories</h1>
-<a id="lab4294"></a><h2 class="section">Introduction</h2>
+<a id="lab4294"></a><h1 class="section">Triangulated categories</h1>
+<a id="lab4295"></a><h2 class="section">Introduction</h2>
 
 A triangulated category Tr consists of an additive category A together with the following data
 <ul class="doclist">
@@ -188,8 +188,8 @@ We call the data for triangulated category which satisfies (TR1)-(TR5) a pretria
 </div>
 
 <div class="doc">
-<a id="lab4295"></a><h1 class="section">Basic notions</h1>
-<a id="lab4296"></a><h2 class="section">Introduction</h2>
+<a id="lab4296"></a><h1 class="section">Basic notions</h1>
+<a id="lab4297"></a><h2 class="section">Introduction</h2>
 
 In this section we define
 
@@ -275,7 +275,7 @@ In this section we define
 </div>
 
 <div class="doc">
-<a id="lab4297"></a><h2 class="section">Triangles</h2>
+<a id="lab4298"></a><h2 class="section">Triangles</h2>
 
 </div>
 <div class="code">
@@ -304,7 +304,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4298"></a><h2 class="section">Morphisms of triangles</h2>
+<a id="lab4299"></a><h2 class="section">Morphisms of triangles</h2>
 
 </div>
 <div class="code">
@@ -358,7 +358,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4299"></a><h3 class="section">Composition of morphisms is a morphism</h3>
+<a id="lab4300"></a><h3 class="section">Composition of morphisms is a morphism</h3>
 
 </div>
 <div class="code">
@@ -400,7 +400,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4300"></a><h2 class="section">is isomorphism</h2>
+<a id="lab4301"></a><h2 class="section">is isomorphism</h2>
 
 </div>
 <div class="code">
@@ -433,7 +433,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4301"></a><h3 class="section">Composition of is isomorphism is isomorphism</h3>
+<a id="lab4302"></a><h3 class="section">Composition of is isomorphism is isomorphism</h3>
 
 </div>
 <div class="code">
@@ -458,7 +458,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4302"></a><h3 class="section">Construction of an inverse and the fact that it is isomorphism</h3>
+<a id="lab4303"></a><h3 class="section">Construction of an inverse and the fact that it is isomorphism</h3>
 
 </div>
 <div class="code">
@@ -544,7 +544,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4303"></a><h2 class="section">Isomorphisms of triangles</h2>
+<a id="lab4304"></a><h2 class="section">Isomorphisms of triangles</h2>
 
 </div>
 <div class="code">
@@ -568,7 +568,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4304"></a><h3 class="section">Composition of isomorphisms</h3>
+<a id="lab4305"></a><h3 class="section">Composition of isomorphisms</h3>
 
 </div>
 <div class="code">
@@ -586,7 +586,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4305"></a><h3 class="section">Inverse of an isomorphism</h3>
+<a id="lab4306"></a><h3 class="section">Inverse of an isomorphism</h3>
 
 </div>
 <div class="code">
@@ -603,7 +603,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4306"></a><h3 class="section">Identity isomorphism</h3>
+<a id="lab4307"></a><h3 class="section">Identity isomorphism</h3>
 
 </div>
 <div class="code">
@@ -623,11 +623,11 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4307"></a><h2 class="section">Trivial triangle, rotated triangle, and inv rotated triangle</h2>
+<a id="lab4308"></a><h2 class="section">Trivial triangle, rotated triangle, and inv rotated triangle</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4308"></a><h3 class="section">X -Id-&gt; X -&gt; 0 -&gt; X<span class="inlinecode">1</span></h3>
+<a id="lab4309"></a><h3 class="section">X -Id-&gt; X -&gt; 0 -&gt; X<span class="inlinecode">1</span></h3>
 
 </div>
 <div class="code">
@@ -646,7 +646,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4309"></a><h3 class="section">See introduction to this section for the diagram</h3>
+<a id="lab4310"></a><h3 class="section">See introduction to this section for the diagram</h3>
 
 </div>
 <div class="code">
@@ -677,8 +677,8 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4310"></a><h2 class="section">Rotation and inverse rotation of a morphism</h2>
-<a id="lab4311"></a><h3 class="section">See the diagram in the introduction</h3>
+<a id="lab4311"></a><h2 class="section">Rotation and inverse rotation of a morphism</h2>
+<a id="lab4312"></a><h3 class="section">See the diagram in the introduction</h3>
 
 </div>
 <div class="code">
@@ -794,7 +794,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4312"></a><h2 class="section">Cone data</h2>
+<a id="lab4313"></a><h2 class="section">Cone data</h2>
 
 </div>
 <div class="code">
@@ -827,7 +827,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4313"></a><h1 class="section">Data for pretriangulated categories</h1>
+<a id="lab4314"></a><h1 class="section">Data for pretriangulated categories</h1>
 
 </div>
 <div class="code">
@@ -837,7 +837,7 @@ Follows the naming convention Mor1, Mor2, for MorphismPair
 </div>
 
 <div class="doc">
-<a id="lab4314"></a><h2 class="section">PreTriangData</h2>
+<a id="lab4315"></a><h2 class="section">PreTriangData</h2>
 
 <div class="paragraph"> </div>
 
@@ -906,8 +906,8 @@ Construction of a triangle in PTD from ConeData
 </div>
 
 <div class="doc">
-<a id="lab4315"></a><h1 class="section">Distinguished triangles and extentions</h1>
-<a id="lab4316"></a><h2 class="section">Inroduction</h2>
+<a id="lab4316"></a><h1 class="section">Distinguished triangles and extentions</h1>
+<a id="lab4317"></a><h2 class="section">Inroduction</h2>
 
 In this section we define data for
 <ul class="doclist">
@@ -930,7 +930,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4317"></a><h2 class="section">Distinguished triangles</h2>
+<a id="lab4318"></a><h2 class="section">Distinguished triangles</h2>
 
 </div>
 <div class="code">
@@ -958,7 +958,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4318"></a><h2 class="section">Extensions</h2>
+<a id="lab4319"></a><h2 class="section">Extensions</h2>
 
 </div>
 <div class="code">
@@ -1014,7 +1014,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4319"></a><h1 class="section">PreTriangulated categories</h1>
+<a id="lab4320"></a><h1 class="section">PreTriangulated categories</h1>
 
 </div>
 <div class="code">
@@ -1024,7 +1024,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4320"></a><h3 class="section">isPreTriang</h3>
+<a id="lab4321"></a><h3 class="section">isPreTriang</h3>
 
 <ul class="doclist">
 <li> Trivial triangles are distinguished
@@ -1074,7 +1074,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4321"></a><h3 class="section">Accessor functions</h3>
+<a id="lab4322"></a><h3 class="section">Accessor functions</h3>
 
 </div>
 <div class="code">
@@ -1136,7 +1136,7 @@ In this section we define data for
 </div>
 
 <div class="doc">
-<a id="lab4322"></a><h2 class="section">Pretriangulated category</h2>
+<a id="lab4323"></a><h2 class="section">Pretriangulated category</h2>
 
 </div>
 <div class="code">
@@ -1169,7 +1169,7 @@ Accessor functions for pretriangulated categories
 </div>
 
 <div class="doc">
-<a id="lab4323"></a><h1 class="section">Triangulated categories</h1>
+<a id="lab4324"></a><h1 class="section">Triangulated categories</h1>
 
 </div>
 <div class="code">
@@ -1179,7 +1179,7 @@ Accessor functions for pretriangulated categories
 </div>
 
 <div class="doc">
-<a id="lab4324"></a><h2 class="section">Octahedral data</h2>
+<a id="lab4325"></a><h2 class="section">Octahedral data</h2>
 
 <div class="paragraph"> </div>
 
@@ -1312,7 +1312,7 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4325"></a><h2 class="section">Triangulated category</h2>
+<a id="lab4326"></a><h2 class="section">Triangulated category</h2>
 
 </div>
 <div class="code">
@@ -1353,7 +1353,7 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4326"></a><h1 class="section">Rotations and inverse rotations of morphisms, Extensions, and DTris</h1>
+<a id="lab4327"></a><h1 class="section">Rotations and inverse rotations of morphisms, Extensions, and DTris</h1>
 
 </div>
 <div class="code">
@@ -1366,7 +1366,7 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4327"></a><h2 class="section">iso D InvRot (Rot D) and iso D Rot (InvRot D)</h2>
+<a id="lab4328"></a><h2 class="section">iso D InvRot (Rot D) and iso D Rot (InvRot D)</h2>
 
 </div>
 <div class="code">
@@ -1491,7 +1491,7 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4328"></a><h2 class="section">Extension of morphisms at 2 and 1</h2>
+<a id="lab4329"></a><h2 class="section">Extension of morphisms at 2 and 1</h2>
 
 </div>
 <div class="code">
@@ -1671,7 +1671,7 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4329"></a><h2 class="section">Rotations of DTris</h2>
+<a id="lab4330"></a><h2 class="section">Rotations of DTris</h2>
 
 </div>
 <div class="code">
@@ -1691,8 +1691,8 @@ Accessor functions
 </div>
 
 <div class="doc">
-<a id="lab4330"></a><h1 class="section">Composition is zero</h1>
-<a id="lab4331"></a><h2 class="section">Introduction</h2>
+<a id="lab4331"></a><h1 class="section">Composition is zero</h1>
+<a id="lab4332"></a><h2 class="section">Introduction</h2>
 
 Composition of consecutive morphisms of a distinguished triangle is 0.
  
@@ -1737,7 +1737,7 @@ Composition of consecutive morphisms of a distinguished triangle is 0.
 </div>
 
 <div class="doc">
-<a id="lab4332"></a><h2 class="section">Introduction</h2>
+<a id="lab4333"></a><h2 class="section">Introduction</h2>
 
 We construct the short exact sequences out from distinguished triangles. These can be used to define
 the long exact sequences associated to a distinguished triangle. Suppose (X, Y, Z, f, g, h) is a
@@ -1924,7 +1924,7 @@ ShortShortExacts to X
 </div>
 
 <div class="doc">
-<a id="lab4333"></a><h2 class="section">Introduction</h2>
+<a id="lab4334"></a><h2 class="section">Introduction</h2>
 
 Suppose you have a morphism of distinguished triangles represented by the following diagram
                                 X  -f-&gt; Y  -g-&gt; Z  -h-&gt;  X<span class="inlinecode">1</span>
@@ -2222,7 +2222,7 @@ TriangulatedFiveLemma2], and <span class="inlinecode"><a class="idref" href="Uni
 </div>
 
 <div class="doc">
-<a id="lab4334"></a><h2 class="section">Change triangles in extension using isomorphisms</h2>
+<a id="lab4335"></a><h2 class="section">Change triangles in extension using isomorphisms</h2>
 
 </div>
 <div class="code">
@@ -2293,7 +2293,7 @@ TriangulatedFiveLemma2], and <span class="inlinecode"><a class="idref" href="Uni
 </div>
 
 <div class="doc">
-<a id="lab4335"></a><h2 class="section">Change triangles in octa using isomorphisms</h2>
+<a id="lab4336"></a><h2 class="section">Change triangles in octa using isomorphisms</h2>
 
 </div>
 <div class="code">

@@ -41,7 +41,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4596"></a><h1 class="section">1. The tactics</h1>
+<a id="lab4597"></a><h1 class="section">1. The tactics</h1>
 
 </div>
 <div class="code">
@@ -242,7 +242,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4597"></a><h1 class="section">2. Compose</h1>
+<a id="lab4598"></a><h1 class="section">2. Compose</h1>
 
 </div>
 <div class="code">
@@ -525,7 +525,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4598"></a><h1 class="section">3. Pair</h1>
+<a id="lab4599"></a><h1 class="section">3. Pair</h1>
 
 </div>
 <div class="code">
@@ -612,7 +612,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4599"></a><h1 class="section">4. Pair arrow</h1>
+<a id="lab4600"></a><h1 class="section">4. Pair arrow</h1>
 
 </div>
 <div class="code">
@@ -750,7 +750,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4600"></a><h1 class="section">5. Pair projections</h1>
+<a id="lab4601"></a><h1 class="section">5. Pair projections</h1>
 
 </div>
 <div class="code">
@@ -1053,7 +1053,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4601"></a><h1 class="section">6. Union arrow ('match')</h1>
+<a id="lab4602"></a><h1 class="section">6. Union arrow ('match')</h1>
 
 </div>
 <div class="code">
@@ -1155,7 +1155,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4602"></a><h1 class="section">7. Union injections</h1>
+<a id="lab4603"></a><h1 class="section">7. Union injections</h1>
 
 </div>
 <div class="code">
@@ -1405,7 +1405,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4603"></a><h1 class="section">8. Evaluation of a curried function</h1>
+<a id="lab4604"></a><h1 class="section">8. Evaluation of a curried function</h1>
 
 </div>
 <div class="code">
@@ -1589,7 +1589,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4604"></a><h1 class="section">9. Curry</h1>
+<a id="lab4605"></a><h1 class="section">9. Curry</h1>
 
 </div>
 <div class="code">
@@ -1742,7 +1742,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4605"></a><h1 class="section">10. Uncurry</h1>
+<a id="lab4606"></a><h1 class="section">10. Uncurry</h1>
 
 </div>
 <div class="code">
@@ -2036,7 +2036,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4606"></a><h1 class="section">11. N-tuple</h1>
+<a id="lab4607"></a><h1 class="section">11. N-tuple</h1>
 
 </div>
 <div class="code">
@@ -2105,7 +2105,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4607"></a><h1 class="section">12. N-tuple arrow</h1>
+<a id="lab4608"></a><h1 class="section">12. N-tuple arrow</h1>
 
 </div>
 <div class="code">
@@ -2221,7 +2221,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4608"></a><h1 class="section">13. N-tuple projection</h1>
+<a id="lab4609"></a><h1 class="section">13. N-tuple projection</h1>
 
 </div>
 <div class="code">

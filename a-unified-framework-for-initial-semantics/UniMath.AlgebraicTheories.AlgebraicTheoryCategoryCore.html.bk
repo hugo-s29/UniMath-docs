@@ -36,7 +36,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4488"></a><h1 class="section">1. The category of algebraic theories</h1>
+<a id="lab4489"></a><h1 class="section">1. The category of algebraic theories</h1>
 
 </div>
 <div class="code">
@@ -48,7 +48,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4489"></a><h2 class="section">1.1. The category of algebraic theory data</h2>
+<a id="lab4490"></a><h2 class="section">1.1. The category of algebraic theory data</h2>
 
 </div>
 <div class="code">
@@ -130,7 +130,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4490"></a><h3 class="section">1.1.1. Temporary accessors</h3>
+<a id="lab4491"></a><h3 class="section">1.1.1. Temporary accessors</h3>
 
 </div>
 <div class="code">
@@ -208,7 +208,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4491"></a><h2 class="section">1.2. The category of algebraic theories</h2>
+<a id="lab4492"></a><h2 class="section">1.2. The category of algebraic theories</h2>
 
 </div>
 <div class="code">
@@ -260,7 +260,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4492"></a><h3 class="section">1.2.2. A lemma about algebraic theories</h3>
+<a id="lab4493"></a><h3 class="section">1.2.2. A lemma about algebraic theories</h3>
 
 </div>
 <div class="code">

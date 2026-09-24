@@ -115,7 +115,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4268"></a><h1 class="section">Definition of FOLDS precat isomorphisms</h1>
+<a id="lab4269"></a><h1 class="section">Definition of FOLDS precat isomorphisms</h1>
 
 </div>
 <div class="code">
@@ -185,7 +185,7 @@ Contents of this file:
 </div>
 
 <div class="doc">
-<a id="lab4269"></a><h1 class="section">Lemmas about FOLDS isomorphisms</h1>
+<a id="lab4270"></a><h1 class="section">Lemmas about FOLDS isomorphisms</h1>
  the families of equivalences constituting a FOLDS isomorphism
 are given by composition 
 </div>
@@ -294,7 +294,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4270"></a><h1 class="section">A FOLDS isomorphism is determined by the first family of isos</h1>
+<a id="lab4271"></a><h1 class="section">A FOLDS isomorphism is determined by the first family of isos</h1>
 
 </div>
 <div class="code">
@@ -366,7 +366,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4271"></a><h1 class="section">Identity FOLDS isomorphism</h1>
+<a id="lab4272"></a><h1 class="section">Identity FOLDS isomorphism</h1>
 
 </div>
 <div class="code">
@@ -393,7 +393,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4272"></a><h1 class="section">Inverse of a FOLDS isomorphism</h1>
+<a id="lab4273"></a><h1 class="section">Inverse of a FOLDS isomorphism</h1>
 
 </div>
 <div class="code">
@@ -470,7 +470,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4273"></a><h1 class="section">Composition of FOLDS isomorphisms</h1>
+<a id="lab4274"></a><h1 class="section">Composition of FOLDS isomorphisms</h1>
 
 </div>
 <div class="code">
@@ -527,7 +527,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4274"></a><h1 class="section">From isomorphisms to FOLDS isomorphisms</h1>
+<a id="lab4275"></a><h1 class="section">From isomorphisms to FOLDS isomorphisms</h1>
 
 </div>
 <div class="code">
@@ -663,7 +663,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4275"></a><h1 class="section">from FOLDS isomorphism to isomorphism</h1>
+<a id="lab4276"></a><h1 class="section">from FOLDS isomorphism to isomorphism</h1>
 
 </div>
 <div class="code">
@@ -694,7 +694,7 @@ are given by composition
 </div>
 
 <div class="doc">
-<a id="lab4276"></a><h1 class="section">from FOLDS isos to isos and back, and the other way round</h1>
+<a id="lab4277"></a><h1 class="section">from FOLDS isos to isos and back, and the other way round</h1>
 
 </div>
 <div class="code">

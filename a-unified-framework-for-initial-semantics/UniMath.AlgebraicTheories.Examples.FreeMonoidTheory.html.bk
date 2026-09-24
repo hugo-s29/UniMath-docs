@@ -50,7 +50,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4561"></a><h1 class="section">1. The definition of the algebraic theory</h1>
+<a id="lab4562"></a><h1 class="section">1. The definition of the algebraic theory</h1>
 
 </div>
 <div class="code">
@@ -64,7 +64,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4562"></a><h1 class="section">2. The functor from monoids to algebras</h1>
+<a id="lab4563"></a><h1 class="section">2. The functor from monoids to algebras</h1>
 
 </div>
 <div class="code">
@@ -78,7 +78,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4563"></a><h1 class="section">3. Constructing a monoid from an algebra</h1>
+<a id="lab4564"></a><h1 class="section">3. Constructing a monoid from an algebra</h1>
 
 </div>
 <div class="code">
@@ -175,7 +175,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4564"></a><h1 class="section">4. The equivalence</h1>
+<a id="lab4565"></a><h1 class="section">4. The equivalence</h1>
 
 </div>
 <div class="code">

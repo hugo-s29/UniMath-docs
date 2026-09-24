@@ -80,7 +80,7 @@ Type Formers in Comprehension Categories. This file contains sigma, pi and unit 
 </div>
 
 <div class="doc">
-<a id="lab2987"></a><h1 class="section">1. Sigma-types for comprehension categories</h1>
+<a id="lab2988"></a><h1 class="section">1. Sigma-types for comprehension categories</h1>
 
 <div class="paragraph"> </div>
 
@@ -451,7 +451,7 @@ Useful isomorphisms for Sigma
 </div>
 
 <div class="doc">
-<a id="lab2988"></a><h1 class="section">2. Pi-types for comprehension categories</h1>
+<a id="lab2989"></a><h1 class="section">2. Pi-types for comprehension categories</h1>
 
 </div>
 <div class="code">
@@ -596,7 +596,7 @@ Accessors for comp_cat_pi
 </div>
 
 <div class="doc">
-<a id="lab2989"></a><h1 class="section">3. Unit types for comprehension categories</h1>
+<a id="lab2990"></a><h1 class="section">3. Unit types for comprehension categories</h1>
 
 </div>
 <div class="code">

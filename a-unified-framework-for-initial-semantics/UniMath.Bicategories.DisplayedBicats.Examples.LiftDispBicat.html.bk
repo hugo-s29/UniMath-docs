@@ -47,7 +47,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3079"></a><h1 class="section">1. The lift of a displayed bicategory</h1>
+<a id="lab3080"></a><h1 class="section">1. The lift of a displayed bicategory</h1>
 
 </div>
 <div class="code">
@@ -253,7 +253,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3080"></a><h1 class="section">2. Invertible 2-cells in the lift</h1>
+<a id="lab3081"></a><h1 class="section">2. Invertible 2-cells in the lift</h1>
 
 </div>
 <div class="code">
@@ -433,7 +433,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3081"></a><h1 class="section">3. Adjoints equivalences in the lift</h1>
+<a id="lab3082"></a><h1 class="section">3. Adjoints equivalences in the lift</h1>
 
 </div>
 <div class="code">
@@ -655,7 +655,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3082"></a><h1 class="section">4. The univalence of the lift</h1>
+<a id="lab3083"></a><h1 class="section">4. The univalence of the lift</h1>
 
 </div>
 <div class="code">
@@ -710,7 +710,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3083"></a><h1 class="section">5. Properties of the lift</h1>
+<a id="lab3084"></a><h1 class="section">5. Properties of the lift</h1>
 
 </div>
 <div class="code">

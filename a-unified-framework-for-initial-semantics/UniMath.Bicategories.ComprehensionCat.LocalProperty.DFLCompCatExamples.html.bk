@@ -95,7 +95,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3726"></a><h1 class="section">1. Accessors for basic constructions of local properties</h1>
+<a id="lab3727"></a><h1 class="section">1. Accessors for basic constructions of local properties</h1>
 
 </div>
 <div class="code">
@@ -212,7 +212,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3727"></a><h1 class="section">2. Accessors for DFL comprehension categories with a fiberwise strict initial object</h1>
+<a id="lab3728"></a><h1 class="section">2. Accessors for DFL comprehension categories with a fiberwise strict initial object</h1>
 
 </div>
 <div class="code">
@@ -270,7 +270,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3728"></a><h1 class="section">3. Accessors for DFL comprehension categories with fiberwise binary coproducts</h1>
+<a id="lab3729"></a><h1 class="section">3. Accessors for DFL comprehension categories with fiberwise binary coproducts</h1>
 
 </div>
 <div class="code">
@@ -464,7 +464,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3729"></a><h1 class="section">4. Accessors for DFL comprehension categories with a fiberwise subobject classifier</h1>
+<a id="lab3730"></a><h1 class="section">4. Accessors for DFL comprehension categories with a fiberwise subobject classifier</h1>
 
 </div>
 <div class="code">
@@ -526,7 +526,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3730"></a><h1 class="section">5. Accessors for DFL comprehension categories with a fiberwise parameterized NNO</h1>
+<a id="lab3731"></a><h1 class="section">5. Accessors for DFL comprehension categories with a fiberwise parameterized NNO</h1>
 
 </div>
 <div class="code">
@@ -590,7 +590,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3731"></a><h1 class="section">6. Accessors for DFL comprehension categories that are fiberwise regular</h1>
+<a id="lab3732"></a><h1 class="section">6. Accessors for DFL comprehension categories that are fiberwise regular</h1>
 
 </div>
 <div class="code">

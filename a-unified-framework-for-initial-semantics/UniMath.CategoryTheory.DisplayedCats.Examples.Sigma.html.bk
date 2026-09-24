@@ -37,7 +37,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2549"></a><h1 class="section">Sigmas of displayed (pre)categories</h1>
+<a id="lab2550"></a><h1 class="section">Sigmas of displayed (pre)categories</h1>
 
 </div>
 <div class="code">
@@ -131,7 +131,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2550"></a><h2 class="section">Transport and isomorphism lemmas</h2>
+<a id="lab2551"></a><h2 class="section">Transport and isomorphism lemmas</h2>
 
 </div>
 <div class="code">
@@ -187,8 +187,8 @@
 </div>
 
 <div class="doc">
-<a id="lab2551"></a><h2 class="section">Univalence</h2>
-<a id="lab2552"></a><h3 class="section">Characterization of the isos of sigma_disp_cat</h3>
+<a id="lab2552"></a><h2 class="section">Univalence</h2>
+<a id="lab2553"></a><h3 class="section">Characterization of the isos of sigma_disp_cat</h3>
 
 </div>
 <div class="code">
@@ -331,7 +331,7 @@
 </div>
 
 <div class="doc">
-<a id="lab2553"></a><h3 class="section">The univalence proof</h3>
+<a id="lab2554"></a><h3 class="section">The univalence proof</h3>
 
 </div>
 <div class="code">

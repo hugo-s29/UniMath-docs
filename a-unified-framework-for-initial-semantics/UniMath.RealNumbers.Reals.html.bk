@@ -21,7 +21,7 @@
 </div>
 
 <div class="doc">
-<a id="lab4120"></a><h1 class="section">A library about decidable Real Numbers</h1>
+<a id="lab4121"></a><h1 class="section">A library about decidable Real Numbers</h1>
  Author: Catherine LELAY. Oct 2015 - 
 </div>
 <div class="code">
@@ -44,11 +44,11 @@
 </div>
 
 <div class="doc">
-<a id="lab4121"></a><h2 class="section">Definition</h2>
+<a id="lab4122"></a><h2 class="section">Definition</h2>
 
 <div class="paragraph"> </div>
 
-<a id="lab4122"></a><h3 class="section"><span class="inlinecode"><a class="idref" href="UniMath.Algebra.RigsAndRings.html#commring"><span class="id" title="definition">commring</span></a></span></h3>
+<a id="lab4123"></a><h3 class="section"><span class="inlinecode"><a class="idref" href="UniMath.Algebra.RigsAndRings.html#commring"><span class="id" title="definition">commring</span></a></span></h3>
 
 </div>
 <div class="code">
@@ -262,7 +262,7 @@ Caracterisation of equality
 </div>
 
 <div class="doc">
-<a id="lab4123"></a><h3 class="section">Constants and Operations</h3>
+<a id="lab4124"></a><h3 class="section">Constants and Operations</h3>
 
 <div class="paragraph"> </div>
 
@@ -473,7 +473,7 @@ mult
 </div>
 
 <div class="doc">
-<a id="lab4124"></a><h3 class="section">Order</h3>
+<a id="lab4125"></a><h3 class="section">Order</h3>
  <span class="inlinecode"><a class="idref" href="UniMath.RealNumbers.Reals.html#hr_lt_rel"><span class="id" title="definition">hr_lt_rel</span></a></span> 
 </div>
 <div class="code">
@@ -855,7 +855,7 @@ Theorems about order
 </div>
 
 <div class="doc">
-<a id="lab4125"></a><h3 class="section">Appartness</h3>
+<a id="lab4126"></a><h3 class="section">Appartness</h3>
 
 </div>
 <div class="code">
@@ -1128,7 +1128,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4126"></a><h2 class="section">hr_abs</h2>
+<a id="lab4127"></a><h2 class="section">hr_abs</h2>
 
 </div>
 <div class="code">
@@ -1314,7 +1314,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4127"></a><h2 class="section">Archimedean</h2>
+<a id="lab4128"></a><h2 class="section">Archimedean</h2>
 
 </div>
 <div class="code">
@@ -1403,7 +1403,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4128"></a><h2 class="section">Completeness</h2>
+<a id="lab4129"></a><h2 class="section">Completeness</h2>
 
 </div>
 <div class="code">
@@ -1560,7 +1560,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4129"></a><h1 class="section">Interface for Reals</h1>
+<a id="lab4130"></a><h1 class="section">Interface for Reals</h1>
 
 </div>
 <div class="code">
@@ -1572,7 +1572,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4130"></a><h2 class="section">Operations and relations</h2>
+<a id="lab4131"></a><h2 class="section">Operations and relations</h2>
 
 </div>
 <div class="code">
@@ -1631,7 +1631,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4131"></a><h2 class="section">NRNRtoR and RtoNRNR</h2>
+<a id="lab4132"></a><h2 class="section">NRNRtoR and RtoNRNR</h2>
 
 </div>
 <div class="code">
@@ -1804,7 +1804,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4132"></a><h2 class="section">Theorems about apartness and order</h2>
+<a id="lab4133"></a><h2 class="section">Theorems about apartness and order</h2>
 
 </div>
 <div class="code">
@@ -2075,7 +2075,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4133"></a><h2 class="section">Algrebra</h2>
+<a id="lab4134"></a><h2 class="section">Algrebra</h2>
 
 </div>
 <div class="code">
@@ -2170,7 +2170,7 @@ Structures
 </div>
 
 <div class="doc">
-<a id="lab4134"></a><h2 class="section">Rabs</h2>
+<a id="lab4135"></a><h2 class="section">Rabs</h2>
 
 </div>
 <div class="code">

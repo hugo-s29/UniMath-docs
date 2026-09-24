@@ -43,7 +43,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3499"></a><h1 class="section">1. The data of the double bicategory of squares</h1>
+<a id="lab3500"></a><h1 class="section">1. The data of the double bicategory of squares</h1>
 
 </div>
 <div class="code">
@@ -213,7 +213,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3500"></a><h1 class="section">2. The laws</h1>
+<a id="lab3501"></a><h1 class="section">2. The laws</h1>
 
 </div>
 <div class="code">
@@ -847,7 +847,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3501"></a><h1 class="section">3. The double bicategory of squares</h1>
+<a id="lab3502"></a><h1 class="section">3. The double bicategory of squares</h1>
 
 </div>
 <div class="code">
@@ -863,7 +863,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3502"></a><h1 class="section">4. 2-cells coincide with certain squares</h1>
+<a id="lab3503"></a><h1 class="section">4. 2-cells coincide with certain squares</h1>
 
 </div>
 <div class="code">
@@ -937,7 +937,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3503"></a><h1 class="section">5. Companion pairs</h1>
+<a id="lab3504"></a><h1 class="section">5. Companion pairs</h1>
 
 </div>
 <div class="code">
@@ -970,7 +970,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3504"></a><h1 class="section">6. Vertical invertible 2-cells</h1>
+<a id="lab3505"></a><h1 class="section">6. Vertical invertible 2-cells</h1>
 
 </div>
 <div class="code">
@@ -1038,7 +1038,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3505"></a><h1 class="section">7. The local univalence of the Verity double bicategory of squares</h1>
+<a id="lab3506"></a><h1 class="section">7. The local univalence of the Verity double bicategory of squares</h1>
 
 </div>
 <div class="code">
@@ -1070,7 +1070,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3506"></a><h1 class="section">8. Vertical adjoint equivalences</h1>
+<a id="lab3507"></a><h1 class="section">8. Vertical adjoint equivalences</h1>
 
 </div>
 <div class="code">
@@ -1144,7 +1144,7 @@
 </div>
 
 <div class="doc">
-<a id="lab3507"></a><h1 class="section">9. The global univalence of the Verity double bicategory of squares</h1>
+<a id="lab3508"></a><h1 class="section">9. The global univalence of the Verity double bicategory of squares</h1>
 
 </div>
 <div class="code">
